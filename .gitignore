@@ -1,0 +1,13 @@
+# Obsidian noise
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/cache/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Scratch and temporary caches
+*.tmp
+*.bak
