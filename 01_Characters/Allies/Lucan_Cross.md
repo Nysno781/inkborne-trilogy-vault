@@ -34,7 +34,10 @@ tags:
 ## 0. Canonical Identity & Public Facades
 
 * **Full Legal Name:** **Lucan Cross**
-* **Childhood Origin:** Slum youth from the River Wharves of [[03_Worldbuilding/The_Valerian_Empire/Veridia_Metropolis|Veridia]]; met [[01_Characters/Leads/Kyrell_Mavaros|Kyrell]] at age 14 when Kyrell crawled half-dead out of the northern flumes.
+* **Childhood Origin:** Grew up on the River Wharves of [[03_Worldbuilding/The_Valerian_Empire/Veridia_Metropolis|Veridia]]; met [[01_Characters/Leads/Kyrell_Mavaros|Kyrell]] at age 14 when Kyrell crawled half-dead out of the northern flumes.
+* **The Royal Blood Secret (The Decoy Prince):** 
+  * Unbeknownst to him for most of his life, Lucan is an unacknowledged bastard son of the King—making him the half-brother of [[01_Characters/Antagonists/Prince_Corin_Valerius|Prince Corin]].
+  * He has zero interest in crowns, court protocol, or ruling. When the lineage truth is uncovered in Book 2/3, Lucan officially abdicates/renounces any royal claim and entrusts sovereign governance to Kyrell, choosing freedom, wealth, and his own happy ending.
 * **Public High-Society Identity:** Managing Director of **Grand River Freight**; chief logistics broker for grain and timber along the **River Aethel**.
 * **Underworld Role:** Chief of Smuggling, intelligence broker, and tactical commander of the subterranean muffled barge fleet.
 
