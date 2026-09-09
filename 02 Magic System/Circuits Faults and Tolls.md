@@ -27,7 +27,7 @@ tags:
 
 | Ink Type | Material Composition | Visibility State | Micro-Tell Behavior |
 | :--- | :--- | :--- | :--- |
-| **Prime Military Ink** | Pure, unadulterated subterranean Prime Ink from [[03 Worldbuilding/The Valerian Empire/Veridia Metropolis\|The Weeping Deep]] or [[03 Worldbuilding/The Sun-Gilded Isles/Mount Kora and Mountain Blood\|Mount Kora]]. | **Dormant beneath dermis as a learned reflex.** Costs nothing to maintain. Skin appears smooth/bare. | Full bloom during sleep/unconsciousness; **momentary shadow-flicker** on collarbone/wrist during sudden emotional flare. |
+| **Prime Military Ink** | Pure, unadulterated subterranean Prime Ink from the Crown's Weeping Deep wells — or, far more rarely, smuggled cut from the Private Northern Seep in the Ironcrag mountains. | **Dormant beneath dermis as a learned reflex.** Costs nothing to maintain. Skin appears smooth/bare. | Full bloom during sleep/unconsciousness; **momentary shadow-flicker** on collarbone/wrist during sudden emotional flare. |
 | **Street-Cut Contraband** | Prime Ink diluted with mundane pitch-resin and soot carrier. | **Permanently visible dull slate-grey brand.** The inert carrier cannot sink into neural tissue. | Permanently visible; cannot be concealed regardless of training. A life sentence in the underworld. |
 
 ---

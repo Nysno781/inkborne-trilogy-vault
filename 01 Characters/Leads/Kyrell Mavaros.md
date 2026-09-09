@@ -29,7 +29,7 @@ tags:
 ║ • Hair: Raven-Black • Slightly wavy, trimmed neatly to collar length, falls forward when fighting.    ║
 ║ • Eyes: Mercury-Silver • Cold, reflective grey-silver eyes with dark limbal rings; intensely vigilant.║
 ║ • Hands: Always in tailored black leather gloves — they conceal the Wedge glyph inked across his palm.║
-║ • Signature Beast: The Eurasian Lynx (Silent stalker, phantom ambusher, shadow eyes).                ║
+║ • Signature Beast: The Lynx (Silent stalker, phantom ambusher, shadow eyes).                         ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -50,7 +50,7 @@ tags:
 * **Disciplines Held:**
   * [[02 Magic System/Disciplines/Discipline 1 Kinetic|Discipline 1: Physical / Kinetic]] (All 4 Glyphs: Strength (The Corbel), Speed (The Chevron Stack), Kinetic Deflection Shield (The Keystone), Point-Blank Kinetic Shock (The Wedge)).
   * [[02 Magic System/Disciplines/Discipline 3 Beast Summoning|Discipline 3: Beast Summoning]] (All 4 Glyphs: Manifestation (The Sweeping Arc), Partial Manifestation (The Broken Arc), Surface Spread (The Fan), Extended Reach (The Tether)).
-* **Signature Beast Avatar:** **The Eurasian Lynx**
+* **Signature Beast Avatar:** **The Lynx**
   * Silent, stealth predator with tufted ears, razor reflexes, and nocturnal shadow-vision.
   * Manifests as a phantom predator of dense, solidifying black vapor or merges into Kyrell's body for superhuman spatial awareness and agility.
 * **The 3 Junction Faults** (structural faults born of Batch II's interweaving geometries — 5 glyphs isolated, 3 interwoven; full mechanics in [[02 Magic System/Circuits Faults and Tolls|Circuits, Junction Faults & Tolls]]):

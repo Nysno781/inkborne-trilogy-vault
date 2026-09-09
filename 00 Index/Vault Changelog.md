@@ -104,3 +104,12 @@ tags:
 * **Crane:** end-of-book fate stays OPEN (6c).
 * **Theron:** moved to the new **01 Characters/Supporting** folder (7a); his stance on Adira's disappearance left OPEN (8c). All links updated.
 * Trilogy Overview & Series Architecture trimmed to match (Book 3 title now open; Book 2 milestone now open; no Corin-spoilers). Ledger, dev log, README, MOC synced.
+
+---
+
+## 2026-09-09 — Pass D applied: Magic System (author rulings)
+
+* **Ruling 1a — plain beast names:** "Eurasian Lynx" → **the Lynx**, "European Adder" → **the Adder** (Discipline 3 catalog + Kyrell's file). Matches the "just a wolf" convention from Pass C.
+* **Ruling 2a — third-source leak fixed:** the Circuits doc's ink table no longer names Mount Kora as a Prime ink source — the two known sources are the Weeping Deep and the Private Northern Seep (Ironcrag). The Book 1 mystery is protected again.
+* **Ruling 3a — the 12-device catalog stays locked** as a closed list.
+* 25 magic facts locked in the register (the medium, the laws, all 16 glyphs, the tolls, ink types, Crane's variant, the assay engine).

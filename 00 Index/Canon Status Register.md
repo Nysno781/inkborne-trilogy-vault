@@ -45,7 +45,7 @@ Rules: one domain per pass · pause anytime · every ruling reversible · discar
 | A | The Leads — Kyrell, Adira, capabilities sheet | **complete (28 facts locked, A-29 resolved)** |
 | B | Allies & supporting — Lucan, Ronan, Master Koa, Sera, the mother | **complete (24 locked, 3 open)** |
 | C | Antagonists — Corin, Vance, Crane, Thalor (+ Theron → Supporting) | **complete (16 locked, 6 open by design)** |
-| D | Magic system — bible, 16 glyphs, disciplines, circuits & tolls | not started |
+| D | Magic system — bible, 16 glyphs, disciplines, circuits & tolls | **complete (25 locked)** |
 | E | The Sun-Gilded Isles — five isles, Mount Kora, culture, economy | not started |
 | F | The Valerian Empire — Veridia, duchies, laws, court culture | not started |
 | G | Plot & structure — trilogy arc, Book 1 acts, pacing, POV rules | not started |
@@ -114,6 +114,36 @@ Rules: one domain per pass · pause anytime · every ruling reversible · discar
 | C-21 | Theron: his read on Adira's disappearance & his response — OPEN | 🔓 | Ruling 8c | 2026-09-09 |
 | C-22 | The 3-tier antagonist ladder (regional → court → apex) stands; the King has no legitimate heir anywhere in the vault | 🔒 | Series Architecture | 2026-09-09 |
 
+### Pass D — Magic System (ratified & applied 2026-09-09)
+
+| ID | Claim | Status | Source | Last confirmed |
+| :--- | :--- | :--- | :--- | :--- |
+| D-01 | Magic = ink bound to living human dermis only; raw ink/pitch inert | 🔒 | Magic Bible | 2026-09-09 |
+| D-02 | Era: feudal dark fantasy — no firearms, no modern machinery | 🔒 | Magic Bible | 2026-09-09 |
+| D-03 | The 16 glyphs discovered (sacred cave beneath Veridia, tied to the Weeping Deep); no new glyph can exist | 🔒 | Magic Bible | 2026-09-09 |
+| D-04 | The Scriptorium archives, never researches; copy drift causes inexplicable legal-inking failures | 🔒 | Magic Bible | 2026-09-09 |
+| D-05 | One-Discipline Law: second-discipline ink = violent rejection (seizures, blood-rot, stroke) | 🔒 | Magic Bible | 2026-09-09 |
+| D-06 | Circuit binds only during original hand-poking; excised ink dead; no grafts/transfers; damaged glyphs never repaired | 🔒 | Magic Bible | 2026-09-09 |
+| D-07 | Kyrell = only living stable dual-discipline bearer; Corin's 10 glyphs exist only via stasis adaptation | 🔒 | Magic Bible tier table | 2026-09-09 |
+| D-08 | The four visual families + field-ID rhymes | 🔒 | The 16 Glyphs | 2026-09-09 |
+| D-09 | 27 fixed designs: 15 single-form glyphs + 12 Manifestation device variants = "the 16 glyphs" | 🔒 | The 16 Glyphs | 2026-09-09 |
+| D-10 | All 16 canonical glyph names, geometries, placements & effects as listed in the grimoire | 🔒 | The 16 Glyphs; Discipline files | 2026-09-09 |
+| D-11 | Discipline 2 hard rules: no mind-reading, no telepathy, no mind-control — ever | 🔒 | Discipline 2 | 2026-09-09 |
+| D-12 | Discipline 3: the One-Beast Rule (one device, permanent; destroyed = dead ink) | 🔒 | Discipline 3 | 2026-09-09 |
+| D-13 | Discipline 3: constructs have form & senses only — zero animal chemistry (no venom) | 🔒 | Discipline 3 | 2026-09-09 |
+| D-14 | Discipline 4: cannot regrow limbs, cannot revive the dead — stabilize/seal/accelerate only | 🔒 | Discipline 4 | 2026-09-09 |
+| D-15 | Magic burns calories, hydration, blood-oxygen; dual overdrive doubles the load; Kyrell has zero healing magic | 🔒 | Circuits doc | 2026-09-09 |
+| D-16 | Prime ink: dormant, concealable, free to maintain; blooms in sleep; shadow-flicker at emotional flare | 🔒 | Circuits doc | 2026-09-09 |
+| D-17 | Street-cut ink: permanently visible slate-grey brand; unconcealable | 🔒 | Circuits doc | 2026-09-09 |
+| D-18 | Kyrell's 3 junction faults (Pass A mechanics) + the bloom tell | 🔒 | Circuits doc; Kyrell file | 2026-09-09 |
+| D-19 | The Inquisitorial Perception variant (Crane + high inquisitors only): senses ink resonance within 3 paces | 🔒 | Discipline 2; Crane file | 2026-09-09 |
+| D-20 | Crane's glyphs: Perception variant (temples) + Dread Aura (sternum) | 🔒 | Crane file | 2026-09-09 |
+| D-21 | Kyrell's syndicate can assay ink by source-signature; known Prime sources = Weeping Deep + Private Northern Seep (Ironcrag) — the third-source mystery engine | 🔒 | Compass; Circuits doc (fixed) | 2026-09-09 |
+| D-22 | Vitality bearers are state-conscripted; unlicensed healers hunted or underworld-employed | 🔒 | Discipline 4; Laws doc | 2026-09-09 |
+| D-23 | Beast devices use plain names — the Lynx, the Adder, the Wolf (no real-Earth continent adjectives) | 🔒 | Ruling 1a | 2026-09-09 |
+| D-24 | Prime Military Ink = Weeping Deep or Private Northern Seep (the Mount Kora mention removed — it leaked the third-source mystery) | 🔒 | Ruling 2a | 2026-09-09 |
+| D-25 | All 12 regional devices locked as a closed catalog (Lynx, Wolf, Stag, Bear, Horse, Fox, Adder, Raven, Falcon, Owl, Trout, Wolverine) | 🔒 | Ruling 3a | 2026-09-09 |
+
 ### Pass A — The Leads (ratified & applied 2026-09-09)
 
 **Kyrell Mavaros**
@@ -123,7 +153,7 @@ Rules: one domain per pass · pause anytime · every ruling reversible · discar
 | A-01 | Age 32; survived Batch II at age 14 — 18 years ago | 🔒 | Kyrell file | 2026-09-09 |
 | A-02 | Physique: 6'5" (196 cm), pale ivory skin, raven-black collar-length hair, mercury-silver eyes with dark limbal rings | 🔒 | Kyrell file | 2026-09-09 |
 | A-03 | Always in black leather gloves — concealment of the palm Wedge glyph (wardrobe + tactics, NOT an intimacy trope — see graveyard) | 🔒 | Kyrell file; Discipline 1 | 2026-09-09 |
-| A-04 | Signature beast: the Eurasian Lynx — silent ambusher, shadow-vision, solidifying black vapor or merged | 🔒 | Kyrell file; Discipline 3 | 2026-09-09 |
+| A-04 | Signature beast: the Lynx — silent ambusher, shadow-vision, solidifying black vapor or merged | 🔒 | Kyrell file; Discipline 3 | 2026-09-09 |
 | A-05 | 8 Prime-Inked Glyphs — only living dual-discipline titan; ALL 8 inked during Batch II at age 14 | 🔒 | Kyrell file; Magic Bible | 2026-09-09 |
 | A-06 | Glyph names = the canonical grimoire names (Corbel, Chevron Stack, Keystone, Wedge / Sweeping Arc, Broken Arc, Fan, Tether) | 🔒 | Kyrell file; The 16 Glyphs | 2026-09-09 |
 | A-07 | The 3 junction faults = the mechanical (Circuits) version: detonating lynx claw, mislocated deflection shield, snapped tether — plus the bloom tell | 🔒 | Circuits doc (author ruling 1A) | 2026-09-09 |
