@@ -38,7 +38,7 @@ tags:
 ## 0. Canonical Identity & Public Facades
 
 * **Full Legal Name:** **Kyrell Mavaros**
-* **Childhood Origin:** 100% genuine slum orphan from Tier 3 (*The Sinks*) in [[03 Worldbuilding/The Valerian Empire/Veridia Metropolis|Veridia]]; survivor of the Batch II Prime Ink experiments 15 years ago. Carries zero royal blood—his survival was a triumph of sheer human grit, street resilience, and biological willpower over noble arrogance.
+* **Childhood Origin:** 100% genuine slum orphan from Tier 3 (*The Sinks*) in [[03 Worldbuilding/The Valerian Empire/Veridia Metropolis|Veridia]]; survivor of the Batch II Prime Ink experiments 18 years ago, at age fourteen. Carries zero royal blood—his survival was a triumph of sheer human grit, street resilience, and biological willpower over noble arrogance.
 * **Public High-Society Identity:** Governor of the **Imperial Assay & Bullion House** in Tier 2; prominent financier and managing shareholder of Grand River Freight.
 * **Underworld Sovereign Identity:** The **Shadow Sovereign** of Tier 3; absolute master of the subterranean black-market ink trade, catacomb smuggling, and the **Ink Scrip** currency.
 

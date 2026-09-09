@@ -47,7 +47,15 @@ tags:
 12. **Book 1 Overview page:** status refreshed — the act map and chapter outline now exist in Planning; the page keeps the fixed starting points.
 
 ### 4. Awaiting the author's call (flagged, deliberately untouched)
-* **Batch II timeline:** Kyrell's file says the experiments were 15 years ago (he'd have been 17); Lucan's story (met Kyrell at 14, after 18 years of brotherhood) implies 18 years ago. One must give.
 * **Escort count:** the compass says five guards *including* Ronan (four dead); the outline, act map, dev log, and the Ch2 draft all say five guards died besides Ronan.
 * **First confrontation timing:** the compass says Adira stands before Kyrell by ~Ch5; the detailed outline places the capture and confrontation at Ch9.
 * **Twist 4** in the twists catalog (the tongue-inked prince whispering command frequencies) breaks the hard no-mind-control rule and contradicts Corin's canon — replace, discard, or keep?
+
+---
+
+## 2026-09-09 — Pass 2: Batch II timeline locked
+
+* **Decision (author-confirmed): the Batch II experiments happened 18 years ago.** Kyrell was fourteen — a true child of the gutters, matching Lucan's locked story (he met Kyrell at 14, half-dead out of the northern flumes, and has stood beside him for the 18 years since).
+* Kyrell's file corrected from "15 years ago" to "18 years ago, at age fourteen." Lucan's file needed no change.
+* Corin's "15 years ago" dates (the stasis awakening and Vance's death-lie) are a separate timeline and remain untouched.
+
