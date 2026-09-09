@@ -26,9 +26,9 @@ tags:
 * **No Insta-Love / No Insta-Lust:** Attraction is grounded in observation, mutual respect, and undeniable physical awareness. No immediate panting declarations or foolish surrender of boundaries.
 * **Enemies-to-Allies-to-Lovers Trajectory:** Initial wariness and tactical suspicion transform through shared danger, competence, and vulnerability into fierce, unshakeable devotion.
 * **Angst & Jealousy:** Deep emotional stakes, high-society ballroom friction, protective instincts, and the agonizing weight of duty versus personal desire.
-* **Touch-Starvation & Micro-Tells:** 
+* **Touch-Starvation & Attentiveness:** 
   * Accidental brush of fingers over primed tattoos and tending of wounds carry immense erotic and emotional charge.
-  * Adira is the *only* person in the world who can read Kyrell’s subtle ink micro-tells beneath his collar and wrists.
+  * She reads Kyrell the way any attentive person reads someone they're falling for — no special ability, just the willingness to look closely when no one else does.
 
 ---
 

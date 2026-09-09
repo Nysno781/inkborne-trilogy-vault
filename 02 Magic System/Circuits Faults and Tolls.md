@@ -56,4 +56,4 @@ Kyrell carries **8 glyphs: 5 isolated, 3 interwoven junction points**. Junctions
 ```
 
 * **The Bloom Tell:** Under extreme physical exhaustion, these 3 junction points **bloom first** as dark, burning bruises before the rest of his ink surfaces.
-* **The Only Reader:** [[01 Characters/Leads/Adira Solari|Adira]] is the only person observant enough to read both his emotional micro-tells and his junction fatigue.
+* **No Unique Reader:** the flickers are subtle — most people never look closely enough to catch them — but reading them takes nothing more than attention. There is no special sense involved; anyone who truly watches him (as Adira comes to) can learn them.

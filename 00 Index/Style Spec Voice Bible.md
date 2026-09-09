@@ -60,7 +60,7 @@ tags:
 - **Possessive-oath, not verdict:** "she is under my mantle" (territorial *protection*), NOT "you belong to me" (ownership). Xaden/Rhys, not Tamlin.
 - **He falls first, she falls harder** — his side shows only through actions (single POV); hers through the slow crack of trust.
 - **Touch-starvation is the engine:** the almost-touch, wound-tending, the mantle-drape, the three-dance rule. Save the first true touch for the crest.
-- **Her reading of him** (the micro-tells, the collar-flicker) is the romance's secret weapon — deployed sparingly, each time landing harder.
+- **Her attentiveness to him** is the romance's secret weapon — she notices what no one else bothers to; deployed sparingly, each time landing harder.
 
 ## 6. Lyricism budget
 

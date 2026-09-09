@@ -79,5 +79,5 @@ tags:
 * **The Subconscious Need:** To be truly seen, loved, and touched for who he is—not feared as a weapon or a criminal sovereign.
 * **Romance Dynamics with [[01 Characters/Leads/Adira Solari|Adira Solari]]:**
   * Fascinated by her un-inked golden skin and fearless ocean spirit.
-  * Stunned that she is the only person alive who reads his blooming ink micro-tells beneath his collar.
+  * Stunned that she notices what no one else bothers to — she watches him closely enough to catch the man behind the Sovereign.
   * Fierce, possessive ballroom jealousy when mainland nobles attempt to court or diminish her.

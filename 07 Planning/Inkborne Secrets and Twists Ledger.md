@@ -21,7 +21,7 @@
 | The mainland exists / "we are not alone under the sun" | Elders only | Act I (gradual discovery) | The wrongness catalogue → the tattooed strangers |
 | The locket is lost | — | Early Act II (within a day) | Adira notices; chaos buries it; grief resurfaces at the moment she *needs* its comfort (sea refuses them, she reaches for it — gone). Location unknown to her. |
 | The way home is closed (one-way sea) | No one truly | Act II — "the sea refuses" | Adira reads the current and can't cross back. Devastating, and confirms her private dread. |
-| She reads Kyrell's micro-tells / junction fatigue | No one | Act II–III (growing) | Her wayfinder's eye vs. his armor. The first "two readers of people" beat. |
+| She learns to read Kyrell — the man under the masks | — | Act II–III (growing) | Ordinary attentiveness, not a special sense: she pays attention as she falls. |
 | **Master Koa is alive** | Thalor + Kyrell's world don't know his name matters; only Thalor's dungeons | Act IV — the freeing of Koa | 12 years in the flooded dark. Shatters Adira. |
 | **Her mother had a secret mainland past** | Koa (and the dead) | Act IV, via Koa | Surface truth: mother fled the Inquisition, was smuggled home by Koa, loved, died. Full detail → Book 2. |
 | **Thalor's armada** is real, pointed west, and her home is the target | Thalor + his shipwrights | Act IV (raid + Koa's testimony) | Built in part using Koa's outrigger & stolen wind-bearings. Thalor outwitted but not undone. |

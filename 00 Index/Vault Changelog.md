@@ -71,3 +71,9 @@ tags:
 * **Ruling — "The Unmarked Bride" alias (3B):** dropped; parked in the register graveyard.
 * **Ruling — glyph origin (4A):** all 8 of Kyrell's glyphs were inked during Batch II at age 14.
 * **Open (A-29):** who can read Kyrell's micro-tells/junction fatigue — clarification requested.
+---
+
+## 2026-09-09 — Pass A follow-up: A-29 resolved (option c)
+
+* **Ruling:** she reads Kyrell the way any attentive person reads someone they're falling for — **no special tell-reading ability, no "only one alive" claim**. Applied across her file (the "Observational Genius / Only Reader of His Ink" skill removed), the capabilities sheet, the style guide & voice bible, the circuits doc (now "No Unique Reader" — anyone paying attention can learn the flickers), the compass symmetry, the act map (Ch19–20), the outline's locked Ch13 beat (the flicker stays; "She alone can read it" removed), the dev log, the ledger, and Kyrell's file.
+* The Ch13 "she says *Kyrell* — something flickers under his collar" beat survives: the ink-flicker physics are magic canon; the noticing is now ordinary attentiveness.

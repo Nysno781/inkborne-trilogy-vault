@@ -82,7 +82,7 @@
 ## Ch13 — The Road to Veridia
 - Kyrell concludes his coastal business and takes the household (debtors included) up the River Aethel toward Veridia. Forced proximity without pressure: deck work, night watches, shared silences.
 - Adira glimpses the man behind the gloves: he has a wounded smuggler treated without ceremony; at a river stop, street orphans cling to his coat and he lets them; his men obey from loyalty, not fear. Her picture of the monster cracks.
-- **The first micro-tell she names:** she says his name plainly — *Kyrell* — and something flickers under his collar; he goes very still. She alone can read it. She doesn't know what it means yet, but she files it like a landmark.
+- **The first tell she names:** she says his name plainly — *Kyrell* — and something flickers under his collar; he goes very still. Nothing mystical — she simply notices, the way you notice any man's composure slip — and files it like a landmark.
 - 🔶 Lucan + Ronan banter (the duo comes alive); a quiet scene where the handmaiden and Adira speak of home.
 - Arrival at the edge of Veridia — Tier 3, The Sinks, waits below. (End of Act II; hook into Act III.)
 

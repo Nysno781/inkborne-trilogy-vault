@@ -60,8 +60,6 @@ tags:
 
 * **Master Wayfinder & Celestial Tracker:**
   * Memorized the oral epic *Song of the Star Compass*. Reads barometric shifts, ocean swells, wave reflection pulses, and cloud formations by intuition and touch.
-* **The Observational Genius (The Only Reader of His Ink):**
-  * Her extreme wayfinding sensitivity makes her the **only person on the continent who reads [[01 Characters/Leads/Kyrell Mavaros|Kyrell]]'s ink micro-tells**—she spots the momentary shadow-flicker on his collarbone, throat, or wrist when his emotions flare.
 * **Athletic Free-Diver:**
   * 4+ minute breath capacity; zero panic when submerged; high endurance in freezing water.
 * **Obsidian Precision:**

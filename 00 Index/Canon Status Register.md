@@ -42,7 +42,7 @@ Rules: one domain per pass · pause anytime · every ruling reversible · discar
 
 | Pass | Domain | Status |
 | :--- | :--- | :--- |
-| A | The Leads — Kyrell, Adira, capabilities sheet | **applied — one clarification open (A-29)** |
+| A | The Leads — Kyrell, Adira, capabilities sheet | **complete (28 facts locked, A-29 resolved)** |
 | B | Allies & supporting — Lucan, Ronan, Master Koa, Sera, the injured man | not started |
 | C | Antagonists — Corin, Vance, Crane, Thalor, Theron + the hierarchy | not started |
 | D | Magic system — bible, 16 glyphs, disciplines, circuits & tolls | not started |
@@ -94,7 +94,7 @@ Rules: one domain per pass · pause anytime · every ruling reversible · discar
 | A-26 | On the isles she was never "lesser" — unmarked is the norm; "blank" is a mainland concept she must refuse | 🔒 | Compass | 2026-09-09 |
 | A-27 | The symmetry: he hides behind the ink system; she is the one it never touched | 🔒 | Compass; Capabilities sheet | 2026-09-09 |
 | A-28 | The locket: obsidian-and-mother-of-pearl teardrop holding one pure droplet of Mountain Blood — an **unexplained gift**; Adira knows what it holds, never why her mother sealed it | 🔒 | Adira file; Mount Kora doc (author ruling) | 2026-09-09 |
-| A-29 | Who can read Kyrell's ink micro-tells / junction fatigue | 🔓 | **Open — awaiting author clarification** (see pending rulings) | — |
+| A-29 | How she reads Kyrell: ordinary attentiveness — no special tell-reading ability, no unique-reader claim. The ink's flicker physics remain canon (Pass D) but have no exclusive reader | 🔒 | Author ruling 2026-09-09 (option c) | 2026-09-09 |
 
 ---
 

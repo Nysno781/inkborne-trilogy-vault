@@ -33,7 +33,7 @@
   - His "you are mine" is an **oath** ("no one will ever hurt you"), never a **verdict** ("you belong to me").
 - He treats her like a queen. He would **fight to keep them together**, **burn the world if it means she lives**, and be **ready to burn himself if there is no way out**.
 - **His arc:** a self-made slum orphan from the Sinks — control is his survival scar, not a hobby. His instinct will be to cage, hide, guard her. The story is him learning to **fight beside her, not for her** — to trust her to stand in her own fire.
-- **Armor comes off:** the masks, the Sovereign. Being truly seen is the only thing that has ever made him safe. Adira is the only person alive who can read him — his ink micro-tells, his junction fatigue. His love story is being *known*.
+- **Armor comes off:** the masks, the Sovereign. Being truly seen is the only thing that has ever made him safe. Adira is the one who finally pays enough attention to know him — not a gift, just care. His love story is being *known*.
 
 ---
 
@@ -67,7 +67,7 @@
 - **Her collision, not her backstory:** she does not arrive carrying shame about her skin. She arrives whole, and the mainland's misreading of her is the *new* injury she must refuse.
 - **The lie she must refuse (only bites on the mainland):** worth = how perfectly she fills the roles assigned to her. On the islands she mastered every role and was fulfilled. On the mainland she is handed a degrading role — *blank, lesser, object* — and the arc is her refusing to accept it.
 - **The truth the series proves:** she was never less; she simply belongs to no ink hierarchy. The one person in the story who was never written on is the one person who can never be owned by the mainland's system. Her freedom isn't granted — she was always outside their claim.
-- **The symmetry with Kyrell:** he is the most *controlled* man alive — 8 glyphs, masks, gloves, unreadable. She reads *people*, not ink — which is exactly why she can read his micro-tells and junction fatigue. He hides behind the very system that marked him; she is the one person that system never touched.
+- **The symmetry with Kyrell:** he is the most *controlled* man alive — 8 glyphs, masks, gloves, unreadable. He hides behind the very system that marked him; she is the one person that system never touched — and she reads him the way any attentive person reads someone they're falling for: by paying attention. No special mechanic; that's the point.
 - **Why he falls first:** she's the first person who saw *him*, not the Shadow Sovereign.
 - **Why she falls harder:** once she finally trusts the one man who never tried to own her, she loves with her whole self.
 

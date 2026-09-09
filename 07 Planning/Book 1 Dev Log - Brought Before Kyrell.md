@@ -28,7 +28,7 @@
 - **Ch10 — The Terms.** Debtors, put to work. Ronan → his physician (she can't reconcile it), then guard/labor. Handmaiden → safe household post. **Adira kept near him** (counting/manifest work). She waits for the trap.
 - **Ch11 — Track B ignites (invisible).** The assay returns: **matches NEITHER the Weeping Deep nor the Private Northern Seep → a third source exists.** He sharpens from "debtors" to "asset" — she only feels him watching her throat, her hands. Lucan enters ("bare-skinned wonder"). A sealed letter — the name *Vance* goes cold through the room.
 - **Ch12 — The First Task.** Courier pouch past Crane's checkpoint — she's **unmarked, invisible to ink-sense.** She improvises and slips through. He doesn't praise her; she's furious she wanted him to. (His private column: *remarkable.*)
-- **Ch13 — The Road to Veridia.** River Aethel, household + debtors. The man behind the gloves (orphans cling to his coat; a smuggler treated without ceremony; men obey from loyalty). **The first micro-tell she NAMES: she says *Kyrell* — something flickers under his collar; he goes very still.**
+- **Ch13 — The Road to Veridia.** River Aethel, household + debtors. The man behind the gloves (orphans cling to his coat; a smuggler treated without ceremony; men obey from loyalty). **The first tell she names: she says *Kyrell* — something flickers under his collar; he goes very still.**
 
 ---
 

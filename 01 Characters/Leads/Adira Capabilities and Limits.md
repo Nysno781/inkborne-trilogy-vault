@@ -38,7 +38,7 @@ She's the best at it because she memorized the whole Song and has practiced sinc
 | **Storm/atoll prediction** | Cloud-mirror sense, barometric shifts | vault (canon) |
 | **Free-diving** | 4+ min breath-hold, zero panic submerged, cold-water endurance | vault (canon) |
 | **Combat** | Twin obsidian daggers (edges sharper than steel); composite recurve shortbow | vault (canon) |
-| **The Observational Genius** | Reads *people* like weather — this is why she's the only one who can read Kyrell's ink micro-tells and junction fatigue | vault + compass |
+| **Trained observation** | A wayfinder's eye — stars, swells, weather, coastlines; on land she turns the same patience on her new surroundings | vault (canon) |
 
 ## 4. Hard limits (what she CANNOT do)
 
@@ -49,8 +49,8 @@ She's the best at it because she memorized the whole Song and has practiced sinc
 
 ## 5. The two transfers (story engine)
 
-1. **Oceanic → Land.** Her arc is applying a sea-genius to land: reading a man's collar/wrists like a weather front (romance), reading timber manifests and ship drafts like currents (cracking Thalor's ghost-timber case — her agency, his dead ends ending).
-2. **The symmetry with Kyrell.** He is the most *controlled* man alive (8 glyphs, gloves, masks, unreadable). She is the one person the ink-system never touched — and the one who can read what it did to him. *He hides behind the very system that marked him; she reads the man behind it.* This is the compass's core symmetry, and it works precisely because wayfinding is perception, not magic.
+1. **Oceanic → Land.** Her arc is turning a sea-genius loose on land: reading timber manifests and ship drafts like currents (cracking Thalor's ghost-timber case — her agency, his dead ends ending).
+2. **The symmetry with Kyrell.** He is the most *controlled* man alive (8 glyphs, masks, gloves, unreadable). She is the one person the ink-system never touched — and, as she falls for him, the one who pays attention to what it did to him. *He hides behind the very system that marked him; she sees the man behind it.* No special mechanic — ordinary attentiveness is the whole point.
 
 ## 6. Status flags
 
