@@ -72,7 +72,7 @@
 - **Crane (Book 1 hound):** Ch12 name+terror (purges/posters/checkpoints) → Ch16 midpoint purge → Act IV counter-hunt. Open: first in-person.
 - **Thalor (smart antagonist):** T1 shipyards (Act I) → T2 "the Sea Duke" business (Act II) → T3 ledgers/ghost timber (Act III) → T4 captive-wayfinder rumor (Act III) → T5 raid (Act IV). Open: first in-person.
 - **Vance (Book 2):** Ch11 letter/name cold → Act III one chilling beat. Open: shadow level.
-- **Corin:** ZERO in Book 1 (locked — protects the Book 2 shock).
+- **Corin:** Book 1 presence OPEN — his arc was stripped to basics (author ruling 2026-09-09).
 - **Theron:** off-page (on the isles) — memory + betrothal dread only; the irony that he believes she fled (reveals HIS chauvinism, not her guilt).
 - **The injured man (micro):** fully open — whether the crewman Ronan hurt appears on-page at all is undecided; no beats assigned (author ruling 2026-09-09). The theft-injury itself stays locked as the cost.
 

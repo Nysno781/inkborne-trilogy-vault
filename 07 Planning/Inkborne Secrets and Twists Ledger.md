@@ -24,7 +24,7 @@
 | She learns to read Kyrell — the man under the masks | — | Act II–III (growing) | Ordinary attentiveness, not a special sense: she pays attention as she falls. |
 | **Master Koa is alive** | Thalor + Kyrell's world don't know his name matters; only Thalor's dungeons | Act IV — the freeing of Koa | 19 years in the flooded dark. Shatters Adira. |
 | **Her mother had a secret mainland past — and never died at sea** | Koa | Act IV, via Koa | Surface truth: she fled the Inquisition, was smuggled home by Koa, loved; sailed back to destroy her records when Adira was four; ambushed — Koa captured, she escaped into the surf and vanished. Full detail → Book 2. |
-| **Thalor's armada** is real and pointed west | Thalor + his shipwrights | Act IV (raid + Koa's testimony) | Built by studying Koa's captured outrigger — but Koa never broke: Thalor lacks the wind-bearings and cannot find the isles. Thalor outwitted but not undone. |
+| **Thalor's armada** is real and pointed west | Thalor + his shipwrights | Act IV (raid + Koa's testimony) | Built by studying Koa's captured outrigger — but Koa never broke: Thalor lacks the wind-bearings and cannot find the isles. |
 | Kyrell's scale & hidden nature | — | Act II–IV (her eyes) | The man behind the gloves: shelters street orphans, controls rooms by silence. |
 
 ### B. SEED in Book 1 (plant; no payoff this book)
@@ -45,19 +45,19 @@
 | **The third source of Prime Ink exists** (matches neither Weeping Deep nor Northern Seep) | Same reveal chain | Kyrell's private motive across all of Book 1 = subtext only. |
 | Vance's web: his two lies about Corin (coma, "died in sleep") + cover-up of Batch II | Book 2 core (he IS the B2 antagonist) | He made Kyrell. The most personal villain. |
 | Batch II origin & Vance's role in creating/covering Kyrell | Book 2 core | Kyrell's origin wound. |
-| Corin is NOT dead — the Ashen Host in the north; stasis whisper (reworked) | Book 2 apex arrival (canon) | Protect the shock: **zero** Corin in Book 1. |
+| Corin is alive — beyond the Glacial Wall | Vance (the death-lie) | Book 2+ (details OPEN) | His motives, following & arc stripped to basics (author ruling 2026-09-09); Book 1 presence also open. |
 | Lucan's royal blood becomes active (the legitimacy crisis) | Book 2 (King's confession) | Book 1 = one oblique beat only. |
 | The elders' culpability (they commissioned Koa, kept the secret, reinforced the taboo) | Book 2 | Betrays Adira's trust when she learns her own leaders hid the world from her young. (Not islander *betrayal* of the realm — protection, but it stings.) |
 | Koa's full story / the ambush, the mother's escape & her nineteen silent years | Book 2 | Book 1 gets the emotional hit; the tactical detail feeds B2's stakes. |
 | Crane's fate under Vance | Book 2 | Decide Book 1 end: does Crane survive into B2 as Vance's tool, or is he undone? (Open — see Act Map.) |
 | **The mother is alive** — where she has been for nineteen years, why she never came home, who else knows | Koa (maybe — open) | Payoff book OPEN (B2/B3) | Locked: she survived the ambush. Everything else undecided. |
 
-### D. HOLD for Book 3 — THE ASHEN WAR
+## D. HOLD for Book 3 (title open)
 | Secret | Notes |
 |---|---|
-| Corin's full nature (10-glyph demigod), why he needs Mountain Blood | Series apex. |
+| Corin's motives & full arc | OPEN | Stripped to basics by author ruling — redevelop from scratch when wanted. |
 | **The third source = Mount Kora** (Kyrell's holy grail = her home) | The great moral hinge. |
-| **The unmarked cannot be commanded** thesis (Adira's agency arc) | Adira's counter to the Ashen God. |
+| **The unmarked cannot be commanded** thesis (Adira's agency arc) | Adira's counter to the apex threat. |
 | Why the mother sealed the drop inside the locket (she never said) | Climax reveal (unresolved — park). |
 | Lucan's abdication → Kyrell's crowning → monarchy abolished → equal Sovereigns | Series resolution. |
 

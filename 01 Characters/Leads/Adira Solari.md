@@ -80,7 +80,7 @@ tags:
 * **Personality Archetype:** Brave, observant, fiercely independent, compassionate, and unwavering in loyalty.
 * **The Core Lie:** *"My life and freedom belong to my people; my duty is to be a sacrificial political pawn to keep our islands hidden and peaceful."*
 * **The Conscious Want:** To survive the mainland, protect Mount Kora's secret from imperial greed, and sail home with [[01 Characters/Allies/Ronan|Ronan]].
-* **The Subconscious Need:** To accept that she deserves a life, a choice, and a passionate love of her own—not just an arranged political sacrifice to [[01 Characters/Antagonists/Theron of Clan Korvos|Theron]].
+* **The Subconscious Need:** To accept that she deserves a life, a choice, and a passionate love of her own—not just an arranged political sacrifice to [[01 Characters/Supporting/Theron of Clan Korvos|Theron]].
 * **Romance Dynamics with [[01 Characters/Leads/Kyrell Mavaros|Kyrell Mavaros]]:**
   * Mutual competence and intellectual parity from the first collision.
   * She strips away his emotional armor without realizing it; she is one of the only living souls who calls him *Kyrell*.

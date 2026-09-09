@@ -31,13 +31,14 @@ Welcome to the central navigation hub for the Inkborne Dark Fantasy Romance Tril
   * [[01 Characters/Allies/Lucan Cross|Lucan Cross (MMC Right Hand)]]
   * [[01 Characters/Allies/Ronan|Ronan (FMC Companion)]]
   * [[01 Characters/Allies/Master Koa|Master Koa (The First Explorer)]]
+* **Supporting — On the Isles:**
+  * [[01 Characters/Supporting/Theron of Clan Korvos|Theron of Clan Korvos — Adira's Betrothed (not currently an antagonist)]]
 * **The Antagonists:**
   * [[01 Characters/Antagonists/Prince Corin Valerius|Prince Corin Valerius (Apex Antagonist / Batch I)]]
   * [[01 Characters/Antagonists/Chancellor Hector Vance|Chancellor Hector Vance (Primary Inquisitorial Chancellor)]]
   * [[01 Characters/Antagonists/Inquisitor Valerius Crane|Inquisitor Valerius Crane (Field Purge Commander)]]
   * [[01 Characters/Antagonists/Duke Garrick Thalor|Duke Garrick Thalor (Western Regional Antagonist)]]
 * **On the Isles (not currently an antagonist — author ruling 2026-09-09):**
-  * [[01 Characters/Antagonists/Theron of Clan Korvos|Theron of Clan Korvos — Adira's Betrothed]]
 * **Templates:**
   * [[01 Characters/Templates/Character Template|Standard Character Template]]
 

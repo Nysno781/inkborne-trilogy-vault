@@ -36,20 +36,18 @@ tags:
 │   & The High Court.                                                                         │
 │ • SETTING: Veridia Tier 1 High Citadel (Ballrooms, Great Scriptorium, Noble Manors).        │
 │ • ROMANCE: Forced Cohabitation / Ballroom Jealousy ──► Surrender & Consummation.            │
-│ • CORE MILESTONE: Kyrell and Adira expose Vance's 25-year conspiracy to the dying King.     │
-│ • APEX SHOCK ARRIVAL: [[01 Characters/Antagonists/Prince Corin Valerius|Prince Corin]]      │
-│   descends from the North, slaughtering Vance and claiming the throne by terror.            │
+│ • CORE MILESTONE: The confrontation with Vance — how and when: OPEN.
 └──────────────────────────────────────────────┬──────────────────────────────────────────────┘
                                                │
                                                ▼
 ┌──────────────────────────────────────────────┴──────────────────────────────────────────────┐
-│ BOOK 3: THE ASHEN WAR (The Continental Cataclysm & Mount Kora Arc)                          │
+│ BOOK 3 (TITLE OPEN): The Continental Cataclysm & Mount Kora Arc
 ├─────────────────────────────────────────────────────────────────────────────────────────────┤
 │ • ANTAGONIST: [[01 Characters/Antagonists/Prince Corin Valerius|Prince Corin Valerius]]     │
-│   & The Ashen Host (The Mad God-Prince Demigod).                                            │
+│   — motives, following & arc: OPEN (stripped to basics, author ruling 2026-09-09).
 │ • SETTING: Veridia under siege ──► Abyssal Reaches crossing ──► Mount Kora Caldera.         │
 │ • ROMANCE: Unbreakable Devotion • Sovereign Partners • Fighting back-to-back as equals.     │
-│ • CLIMAX: The Battle for Mount Kora. Dismantling Corin's 10-glyph madness. Lucan Cross (the secret royal bastard) abdicates any claim, officially crowning Kyrell as Sovereign Governor.
+│ • CLIMAX: OPEN — the Battle for Mount Kora (shape undecided). Lucan Cross (the secret royal bastard) abdicates any claim, officially crowning Kyrell as Sovereign Governor.
 │ • RESOLUTION: Monarchy abolished. Kyrell & Adira ascend as equal Sovereign Rulers of the Realm, bound by choice, not by any magic. Lucan gets his HEA as Grand Master of Commerce and the River Trade; Mount Kora remains protected.
 └─────────────────────────────────────────────────────────────────────────────────────────────┘
 ```

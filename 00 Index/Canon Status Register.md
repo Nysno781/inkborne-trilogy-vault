@@ -44,7 +44,7 @@ Rules: one domain per pass · pause anytime · every ruling reversible · discar
 | :--- | :--- | :--- |
 | A | The Leads — Kyrell, Adira, capabilities sheet | **complete (28 facts locked, A-29 resolved)** |
 | B | Allies & supporting — Lucan, Ronan, Master Koa, Sera, the mother | **complete (24 locked, 3 open)** |
-| C | Antagonists — Corin, Vance, Crane, Thalor, Theron + the hierarchy | not started |
+| C | Antagonists — Corin, Vance, Crane, Thalor (+ Theron → Supporting) | **complete (16 locked, 6 open by design)** |
 | D | Magic system — bible, 16 glyphs, disciplines, circuits & tolls | not started |
 | E | The Sun-Gilded Isles — five isles, Mount Kora, culture, economy | not started |
 | F | The Valerian Empire — Veridia, duchies, laws, court culture | not started |
@@ -86,6 +86,33 @@ Rules: one domain per pass · pause anytime · every ruling reversible · discar
 | B-25 | The four core twist rules: zero islander knowledge (except Elders) • betrayals only from the mainland hierarchy • the isles threatened, never destroyed • Kyrell 100% self-made | 🔒 | Twists doc; ledger | 2026-09-09 |
 | B-26 | The injured man: no beats assigned — whether he appears on-page at all is fully open (the theft-injury itself stays locked as the cost) | 🔓 | Author ruling 2026-09-09 | — |
 | B-27 | Whether Koa knows the mother's true fate | 🔓 | Open — noted in Koa file | — |
+
+### Pass C — Antagonists (ratified & applied 2026-09-09)
+
+| ID | Claim | Status | Source | Last confirmed |
+| :--- | :--- | :--- | :--- | :--- |
+| C-01 | Corin: physical age ~40 (adult at the pact 25y ago + 10 stasis years without aging) | 🔒 | Corin file (ruling 1b) | 2026-09-09 |
+| C-02 | Corin: appearance — 6'3", ivory skin with frost-silver linework, platinum hair, sapphire eyes, manic smile | 🔒 | Corin file | 2026-09-09 |
+| C-03 | Corin: 10 Prime Glyphs (Kinetic + Beast + weaponized Sensory) via stasis adaptation — matches the Magic Bible tier table | 🔒 | Corin file; Magic Bible | 2026-09-09 |
+| C-04 | Corin: basic backstory — firstborn bastard, Batch I volunteer, ink-fever, cold-stasis crypt, awoke in fury, fled beyond the Glacial Wall | 🔒 | Corin file | 2026-09-09 |
+| C-05 | Corin: signature beast is **a wolf** (massive northern pack predator) | 🔒 | Corin file (ruling: "just a wolf") | 2026-09-09 |
+| C-06 | Corin: fighting style — euphoric, theatrical violence; waltzes mid-carnage; laughs through pain | 🔒 | Corin file | 2026-09-09 |
+| C-07 | Corin: motives, following, arc, outcomes, Book 1 presence — **everything beyond the basics is OPEN** | 🔓 | Author ruling (stripped to basics) | 2026-09-09 |
+| C-08 | Vance: age 55–60; Chief Minister to the ailing King, Scriptorium overseer, Inquisitorial commander | 🔒 | Vance file | 2026-09-09 |
+| C-09 | Vance: the web of lies — coma lie (25y ago), death lie (15y ago), Batch II cover-up (18y ago) | 🔒 | Vance file; ledger | 2026-09-09 |
+| C-10 | Vance: Book 2 antagonist (the court architect); "he made Kyrell" | 🔒 | Series Architecture; ledger | 2026-09-09 |
+| C-11 | Vance: motivation — OPEN (dissection motive & Blank Flesh condition removed by author ruling) | 🔓 | Author ruling | 2026-09-09 |
+| C-12 | Crane: age ~40; scarred ascetic in black steel & crimson; Perception (Inquisitorial variant) + Dread Aura | 🔒 | Crane file | 2026-09-09 |
+| C-13 | Crane: the Hound of State — fanatical purge commander across the Four Duchies | 🔒 | Crane file | 2026-09-09 |
+| C-14 | Crane: end-of-book fate — OPEN | 🔓 | Ruling 6c | 2026-09-09 |
+| C-15 | Thalor: age 52; vain, corrupt Master of Port Morwen & the western march | 🔒 | Thalor file | 2026-09-09 |
+| C-16 | Thalor: skims Crown tariffs, off-book timber with Kyrell's syndicate; Kyrell holds the treason ledgers | 🔒 | Thalor file; Duchies doc | 2026-09-09 |
+| C-17 | Thalor: the secret armada — too many hulls (T1), the copied outrigger, **no wind-bearings** | 🔒 | Thalor file; ledger (Pass B) | 2026-09-09 |
+| C-18 | Thalor: end-of-book fate — OPEN (outwitted-not-undone outcome removed) | 🔓 | Ruling 5c | 2026-09-09 |
+| C-19 | Theron: age 26; eldest heir of Clan Korvos (obsidian quarry); proud, rigid chauvinist who resented Adira's independence | 🔒 | Theron file | 2026-09-09 |
+| C-20 | Theron: NOT currently an antagonist; lives in **01 Characters/Supporting**; Book 1 off-page | 🔒 | Author ruling; ruling 7a | 2026-09-09 |
+| C-21 | Theron: his read on Adira's disappearance & his response — OPEN | 🔓 | Ruling 8c | 2026-09-09 |
+| C-22 | The 3-tier antagonist ladder (regional → court → apex) stands; the King has no legitimate heir anywhere in the vault | 🔒 | Series Architecture | 2026-09-09 |
 
 ### Pass A — The Leads (ratified & applied 2026-09-09)
 
@@ -138,6 +165,11 @@ Rules: one domain per pass · pause anytime · every ruling reversible · discar
 | Bare-hands-as-intimacy/vulnerability trope (glove removal as "peak vulnerability," the Glove Strip custom, "save the ungloved contact" beats) | Author: "very cliche" — removed everywhere. Gloves remain as wardrobe + Wedge-glyph concealment; touch-starvation lives on via wound-tending, the almost-touch, mantle-drape, three-dance rule | 2026-09-09 |
 | The ancestral locket warning ("Never open it… this drop will guide you home") | Author ruling: no warning exists — the locket is an unexplained gift; Adira knows what, never why | 2026-09-09 |
 | Island-language words (te Solari, Te Hā, The Umu) | Author ruling: English only — customs keep English names (the Obsidian Breath, the Communal Earth-Oven) | 2026-09-09 |
+| The Ashen Host, "The Ashen God," "The Ashen War," the "mad god-prince" framing | Author ruling: Corin stripped to basics — his conquest, following & B2/B3 outcome beats removed | 2026-09-09 |
+| Corin's motive (Mountain Blood to heal deterioration; seeking Adira's wayfinding/locket) | Author ruling: no motive stated for now — redevelop from scratch when wanted | 2026-09-09 |
+| Vance's Blank Flesh condition + dissection motive + exposed/murdered B2 end | Author ruling: removed — motivation and end now open | 2026-09-09 |
+| Thalor's B1 outcome ("outwitted but not undone; exposing him summons Vance") | Ruling 5c: end-of-book fate open | 2026-09-09 |
+| The "zero Corin in Book 1" lock | Removed with the strip-down — his Book 1 presence is now open | 2026-09-09 |
 
 ---
 

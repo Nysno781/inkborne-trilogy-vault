@@ -91,3 +91,16 @@ tags:
 * **Ruling 5b — Lucan's glyphs upgraded to Prime ink** (dormant, concealable, via Kyrell's supply) — fits his double life.
 * **Ruling 6a — Ronan's gear is ironwood** (spear shaft + bow), matching isle materials.
 * **Locket secrecy amended:** "only Adira and her late mother" → "only Adira and her mother ever knew."
+
+---
+
+## 2026-09-09 — Pass C applied: Antagonists scaled back (author rulings)
+
+* **Corin stripped to basics** — his file rebuilt with identity, appearance, 10 glyphs, the stasis backstory, the wolf, and his fighting style only. Removed: the northern conquest & Ashen Host, his Mountain Blood need, any knowledge of Adira/locket, the B2 slaughtering-Vance arrival, the B3 Mount Kora climax, and the "zero Corin in Book 1" lock. All of it is now OPEN.
+* **Age math fixed (1b):** he was an adult at the pact 25 years ago; ten stasis years leave him physically ~40 (was ~27 — impossible math).
+* **His beast is just a wolf** (ruling 4) — "Great Northern Shadow-Wolf" dropped.
+* **Vance:** Blank Flesh condition, the dissection motive, and his B2 end (exposed before the King, murdered by Corin) all removed — motivation and end now OPEN. His age, offices, web of lies, and Book 2 role stand.
+* **Thalor:** B1 outcome removed — end-of-book fate OPEN (5c).
+* **Crane:** end-of-book fate stays OPEN (6c).
+* **Theron:** moved to the new **01 Characters/Supporting** folder (7a); his stance on Adira's disappearance left OPEN (8c). All links updated.
+* Trilogy Overview & Series Architecture trimmed to match (Book 3 title now open; Book 2 milestone now open; no Corin-spoilers). Ledger, dev log, README, MOC synced.
