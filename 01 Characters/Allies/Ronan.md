@@ -18,7 +18,7 @@ tags:
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                        RONAN (AGE 24)                                                ║
+║                                        RONAN (AGE 25)                                                ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ • Height & Build: 6'1" (185 cm) • Broad-shouldered, rugged, athletic build forged in heavy seas.      ║
 ║ • Complexion: Golden-bronze, sun-weathered island skin • Completely unmarked canvas (zero ink).      ║
@@ -42,8 +42,8 @@ tags:
 
 ## 1. Weapons & Combat Specialization
 
-* **Three-Pronged Sea Spear / Heavy Harpoon:** Ash-wood shaft with hand-ground obsidian tines. Lethal at range and close quarters.
-* **Heavy Horn-and-Yew Shortbow:** Fast-drawing composite bow for perimeter defense.
+* **Three-Pronged Sea Spear / Heavy Harpoon:** Ironwood shaft with hand-ground obsidian tines. Lethal at range and close quarters.
+* **Heavy Horn-and-Ironwood Shortbow:** Fast-drawing composite bow for perimeter defense.
 * **Shark-Tooth Knuckle Dagger:** Close-quarters defense against grapplers.
 
 ---

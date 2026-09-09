@@ -26,7 +26,7 @@
 ### The Allies & Companions
 * [[01 Characters/Allies/Lucan Cross|Lucan Cross]] — Chief of Smuggling • Managing Director of Grand River Freight • Kyrell's Right Hand
 * [[01 Characters/Allies/Ronan|Ronan]] — High Clan Guard • Sea-Spear Master • Adira's Loyal Companion
-* [[01 Characters/Allies/Master Koa|Master Koa]] — The First Explorer • Twelve years captive in Port Morwen's sea-dungeons
+* [[01 Characters/Allies/Master Koa|Master Koa]] — The First Explorer • Nineteen years captive in Port Morwen's sea-dungeons
 
 ### The Antagonist Hierarchy
 * **Apex Threat:** [[01 Characters/Antagonists/Prince Corin Valerius|Prince Corin Valerius]] — The Ashen God • Frozen Heir • 10-Glyph Demigod

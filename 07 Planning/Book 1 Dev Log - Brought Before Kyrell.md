@@ -24,7 +24,7 @@
 - **Ch6 — The Theft & the Escape.** Three bare-skinned foreigners slip the waterfront staging-house (medicine, food, plain clothes to cover skin, a small boat). **One of Kyrell's men injured (not killed).** Clean escape. **The locket cord snaps in the scramble — dropped.** Mid-row, her hand goes to her throat — nothing. She realizes within the day; Ronan is fevering; she cannot go back. (She does NOT know he has it.)
 - **Ch7 — The Sea Refuses.** Dawn: she reads the current — the way home is closed (⚠️ mechanism **OPEN**: the "Abyssal Gyre" one-way current is a candidate the user is unsure about; do not lock). They beach the identifiable boat, flee inland. *The sea is hers, but not the land.*
 - **Ch8 — The Pursuit.** His NETWORK (dockmasters, paid eyes) — he is never seen. They slip it **twice**; third time the net closes. Ronan collapses (fever).
-- **Ch9 — The Capture & the Confrontation.** The order: **"Alive. He wants them alive."** A room of hard men who want blood (incl. the injured man). Adira reads him before he speaks (gloved hands, stillness — he watches her like she watches the sea). **She speaks first — offers herself to spare the others.** First surprise: the leader is the bare-skinned girl. He publicly withholds punishment and claims them as **debt, unspecified.** The missing locket aches through the scene like a pulled tooth.
+- **Ch9 — The Capture & the Confrontation.** The order: **"Alive. He wants them alive."** A room of hard men who want blood. Adira reads him before he speaks (gloved hands, stillness — he watches her like she watches the sea). **She speaks first — offers herself to spare the others.** First surprise: the leader is the bare-skinned girl. He publicly withholds punishment and claims them as **debt, unspecified.** The missing locket aches through the scene like a pulled tooth.
 - **Ch10 — The Terms.** Debtors, put to work. Ronan → his physician (she can't reconcile it), then guard/labor. Handmaiden → safe household post. **Adira kept near him** (counting/manifest work). She waits for the trap.
 - **Ch11 — Track B ignites (invisible).** The assay returns: **matches NEITHER the Weeping Deep nor the Private Northern Seep → a third source exists.** He sharpens from "debtors" to "asset" — she only feels him watching her throat, her hands. Lucan enters ("bare-skinned wonder"). A sealed letter — the name *Vance* goes cold through the room.
 - **Ch12 — The First Task.** Courier pouch past Crane's checkpoint — she's **unmarked, invisible to ink-sense.** She improvises and slips through. He doesn't praise her; she's furious she wanted him to. (His private column: *remarkable.*)
@@ -74,7 +74,7 @@
 - **Vance (Book 2):** Ch11 letter/name cold → Act III one chilling beat. Open: shadow level.
 - **Corin:** ZERO in Book 1 (locked — protects the Book 2 shock).
 - **Theron:** off-page (on the isles) — memory + betrothal dread only; the irony that he believes she fled (reveals HIS chauvinism, not her guilt).
-- **The injured man (micro):** crewman Ronan hurt — present at the confrontation wanting blood; meets her eyes later. A simmering in-house threat. (Name: later round.)
+- **The injured man (micro):** fully open — whether the crewman Ronan hurt appears on-page at all is undecided; no beats assigned (author ruling 2026-09-09). The theft-injury itself stays locked as the cost.
 
 ## 4. Decision Log (re-synced)
 

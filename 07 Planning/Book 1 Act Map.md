@@ -64,7 +64,7 @@
 
 - **Ch23–24 — The return to the coast.** Back to Thalor's country, in disguise, under the pressure of Crane's patrols. Recon: the shipyards, the sea-dungeons, the armada taking shape in plain sight. Adira's dread and skill both peak — she must navigate *and* hide who she is.
 - **Ch25 — The raid on Port Morwen.** Canon milestone. The coordinated strike — Kyrell's people, Lucan's cunning, Ronan's spear, Adira's wayfinding through the sea-caves at night. Chaos, cost, narrow escapes.
-- **Ch26 — The freeing of Master Koa.** The reveal that shatters her: **he is alive.** Twelve years in the flooded dark. His survival proves her mother had a secret past — and that Thalor has been building a **private invasion armada**. (The smart-antagonist payoff: Thalor is outwitted but not undone — his secret is *out*, and that makes him more dangerous, not less.)
+- **Ch26 — The freeing of Master Koa.** The reveal that shatters her: **he is alive.** Nineteen years in the flooded dark. His survival proves her mother had a secret past — and that Thalor has been building a **private invasion armada**. (The smart-antagonist payoff: Thalor is outwitted but not undone — his secret is *out*, and that makes him more dangerous, not less.)
 - **Ch27 — The counter.** Thalor + Crane's response — a hunt, a trap, a last stand at the water's edge. The "odds of survival" crest: they go in believing it may be their last day.
 - **Ch28 — The romance crest.** Kyrell's locked arc moment: he is ready to **burn himself** to buy her escape — and **she refuses to let him**, and pulls him back. The rescue is hers. (She falls harder here — she sees the man who would immolate for her choose to live for her instead.) First declaration — earned, not rushed. Not consummation; the *crest of the wanting*.
 - **Ch29 — The cost & the aftermath.** Bittersweet-not-bitter: they survive, Thalor's armada secret is exposed to those who matter, Koa is free — but they cannot go home (the sea still refuses), Kyrell's position is damaged, and Vance's interest is now awake (the machinery of Book 2 begins to turn). Koa knows the truth of the mother; Adira carries it.
@@ -73,7 +73,7 @@
 ### 🔓 Open in Act IV
 - The locket question (see above) — the single biggest Book 1/2 seam to decide.
 - Who among the secondary cast is most at risk in the raid (rule: no cheap deaths — if anyone falls, it must be earned and set up).
-- How much of Koa's knowledge comes out now vs. saved (mother's full mainland past; the wind-bearings Thalor took; what he endured).
+- How much of Koa's knowledge comes out now vs. saved (mother's full mainland past; whether he knows her fate; what he endured).
 
 ---
 
@@ -94,7 +94,7 @@
 ---
 
 ## Still on the table before drafting Ch1
-1. Handmaiden: Sera (working name) — age, identity, her thread.
+1. Handmaiden: Sera (name locked) — age, identity, her thread.
 2. Locket-in-Book-1: hints only, or the fracture, or the Act IV sighting?
 3. Midpoint reversal choice.
 4. The first task (Act II) — what it is.

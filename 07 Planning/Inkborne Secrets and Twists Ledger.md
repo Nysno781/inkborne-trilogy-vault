@@ -22,9 +22,9 @@
 | The locket is lost | — | Early Act II (within a day) | Adira notices; chaos buries it; grief resurfaces at the moment she *needs* its comfort (sea refuses them, she reaches for it — gone). Location unknown to her. |
 | The way home is closed (one-way sea) | No one truly | Act II — "the sea refuses" | Adira reads the current and can't cross back. Devastating, and confirms her private dread. |
 | She learns to read Kyrell — the man under the masks | — | Act II–III (growing) | Ordinary attentiveness, not a special sense: she pays attention as she falls. |
-| **Master Koa is alive** | Thalor + Kyrell's world don't know his name matters; only Thalor's dungeons | Act IV — the freeing of Koa | 12 years in the flooded dark. Shatters Adira. |
-| **Her mother had a secret mainland past** | Koa (and the dead) | Act IV, via Koa | Surface truth: mother fled the Inquisition, was smuggled home by Koa, loved, died. Full detail → Book 2. |
-| **Thalor's armada** is real, pointed west, and her home is the target | Thalor + his shipwrights | Act IV (raid + Koa's testimony) | Built in part using Koa's outrigger & stolen wind-bearings. Thalor outwitted but not undone. |
+| **Master Koa is alive** | Thalor + Kyrell's world don't know his name matters; only Thalor's dungeons | Act IV — the freeing of Koa | 19 years in the flooded dark. Shatters Adira. |
+| **Her mother had a secret mainland past — and never died at sea** | Koa | Act IV, via Koa | Surface truth: she fled the Inquisition, was smuggled home by Koa, loved; sailed back to destroy her records when Adira was four; ambushed — Koa captured, she escaped into the surf and vanished. Full detail → Book 2. |
+| **Thalor's armada** is real and pointed west | Thalor + his shipwrights | Act IV (raid + Koa's testimony) | Built by studying Koa's captured outrigger — but Koa never broke: Thalor lacks the wind-bearings and cannot find the isles. Thalor outwitted but not undone. |
 | Kyrell's scale & hidden nature | — | Act II–IV (her eyes) | The man behind the gloves: shelters street orphans, controls rooms by silence. |
 
 ### B. SEED in Book 1 (plant; no payoff this book)
@@ -48,8 +48,9 @@
 | Corin is NOT dead — the Ashen Host in the north; stasis whisper (reworked) | Book 2 apex arrival (canon) | Protect the shock: **zero** Corin in Book 1. |
 | Lucan's royal blood becomes active (the legitimacy crisis) | Book 2 (King's confession) | Book 1 = one oblique beat only. |
 | The elders' culpability (they commissioned Koa, kept the secret, reinforced the taboo) | Book 2 | Betrays Adira's trust when she learns her own leaders hid the world from her young. (Not islander *betrayal* of the realm — protection, but it stings.) |
-| Koa's full story / stolen wind-bearings detail | Book 2 | Book 1 gets the emotional hit; the tactical detail feeds B2's stakes. |
+| Koa's full story / the ambush, the mother's escape & her nineteen silent years | Book 2 | Book 1 gets the emotional hit; the tactical detail feeds B2's stakes. |
 | Crane's fate under Vance | Book 2 | Decide Book 1 end: does Crane survive into B2 as Vance's tool, or is he undone? (Open — see Act Map.) |
+| **The mother is alive** — where she has been for nineteen years, why she never came home, who else knows | Koa (maybe — open) | Payoff book OPEN (B2/B3) | Locked: she survived the ambush. Everything else undecided. |
 
 ### D. HOLD for Book 3 — THE ASHEN WAR
 | Secret | Notes |
@@ -74,5 +75,5 @@
 ## Open questions (still live)
 1. The locket in Book 1: **subtext only** (recommended — respects single POV) vs. a single glimpse by Adira very late as a cliffhanger? (The glimpse keeps single POV — she SEES it.)
 2. Does Adira know *of* Master Koa personally (teacher/hero of childhood) or only as a legend? (Affects the Act IV emotional hit.)
-3. What did Adira believe about her mother's origin before Book 1? (Likely "she never questioned" — confirm.)
+3. RESOLVED (Pass B, 2026-09-09): Adira believed her mother died at sea when she was four — she never questioned it. (The truth: her mother lived — see the ledger row above.)
 4. **Superseded (Pass A, 2026-09-09):** the maternal warning never existed — the locket is an unexplained gift (Adira knows what, never why). Open question: WHY did her mother seal Mountain Blood inside, and does the drop ever matter materially? (Book 3 payoff slot; hard-magic rule applies — raw ink is inert.)

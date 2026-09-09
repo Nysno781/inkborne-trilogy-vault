@@ -43,7 +43,7 @@ Rules: one domain per pass · pause anytime · every ruling reversible · discar
 | Pass | Domain | Status |
 | :--- | :--- | :--- |
 | A | The Leads — Kyrell, Adira, capabilities sheet | **complete (28 facts locked, A-29 resolved)** |
-| B | Allies & supporting — Lucan, Ronan, Master Koa, Sera, the injured man | not started |
+| B | Allies & supporting — Lucan, Ronan, Master Koa, Sera, the mother | **complete (24 locked, 3 open)** |
 | C | Antagonists — Corin, Vance, Crane, Thalor, Theron + the hierarchy | not started |
 | D | Magic system — bible, 16 glyphs, disciplines, circuits & tolls | not started |
 | E | The Sun-Gilded Isles — five isles, Mount Kora, culture, economy | not started |
@@ -54,6 +54,38 @@ Rules: one domain per pass · pause anytime · every ruling reversible · discar
 ---
 
 ## Register
+
+### Pass B — Allies & Supporting (ratified & applied 2026-09-09)
+
+| ID | Claim | Status | Source | Last confirmed |
+| :--- | :--- | :--- | :--- | :--- |
+| B-01 | Lucan: age 31; Veridia river-wharf childhood; met Kyrell at 14 — 18 years of brotherhood | 🔒 | Lucan file | 2026-09-09 |
+| B-02 | Lucan: Managing Director of Grand River Freight / Chief of Smuggling, intelligence broker, muffled barge fleet | 🔒 | Lucan file | 2026-09-09 |
+| B-03 | Lucan: secret royal bastard (Decoy Prince), half-brother to Corin; abdicates and crowns Kyrell; wants freedom, wealth, his own HEA | 🔒 | Lucan file; ledger | 2026-09-09 |
+| B-04 | Lucan: weapons — broad-dagger & rapier dueling + concealed 3-shot wrist crossbow (poisoned silver bolts) | 🔒 | Lucan file | 2026-09-09 |
+| B-05 | Lucan: aliases — The Smuggler King, Director Cross | 🔒 | Lucan file | 2026-09-09 |
+| B-06 | Lucan: his 2 Kinetic glyphs (Speed + Kinetic Deflection Shield) are inked in **Prime ink** via Kyrell's supply — dormant, concealable, zero junction faults | 🔒 | Lucan file (ruling 5b) | 2026-09-09 |
+| B-07 | The "Two Right Hands" banter duo: Lucan & Ronan | 🔒 | Lucan file | 2026-09-09 |
+| B-08 | Ronan: age 25; Isle of Solara; younger son of a master outrigger shipbuilder | 🔒 | Ronan file | 2026-09-09 |
+| B-09 | Ronan: High Clan Guard, Adira's personal escort; platonic fierce sibling bond; storm survivor | 🔒 | Ronan file | 2026-09-09 |
+| B-10 | Ronan: the sarcastic morale anchor — deadpan irony against despair | 🔒 | Ronan file | 2026-09-09 |
+| B-11 | Ronan: gear — three-pronged sea spear (ironwood shaft, obsidian tines), heavy horn-and-ironwood shortbow, shark-tooth knuckle dagger | 🔒 | Ronan file (ruling 6a) | 2026-09-09 |
+| B-12 | Ronan's arc: draws steel on Kyrell on sight → deep respect as Kyrell bleeds for her | 🔒 | Ronan file | 2026-09-09 |
+| B-13 | Koa: age ~56; the First Explorer; commissioned by the Council of Five Elders; the voyage was 30 years ago | 🔒 | Koa file; twists doc | 2026-09-09 |
+| B-14 | Koa: rescued Adira's mother on the Port Morwen wharves and smuggled her home | 🔒 | Koa file | 2026-09-09 |
+| B-15 | Koa: ambushed when Adira was four — **19 years captive** in the Port Morwen sea-dungeons; he **never broke**: Thalor holds the outrigger but NOT the wind-bearings; the armada has hulls but no heading | 🔒 | Koa file; ledger (ruling 1a) | 2026-09-09 |
+| B-16 | Koa: freed in the Act IV raid; his survival shatters Adira's picture of her mother | 🔒 | Act map; ledger | 2026-09-09 |
+| B-17 | Sera: **name locked**; locked characterization — competent, steady, unsentimental organizer-healer who carries Adira's old life; NOT fragile | 🔒 | Voice bible; compass | 2026-09-09 |
+| B-18 | Sera: age, full identity, backstory, her thread | 🔓 | Open by design | — |
+| B-19 | Ronan's secret crush on Sera — subtle beats only, never lampshaded | 🔒 | Voice bible; dev log | 2026-09-09 |
+| B-20 | The mother: fled the Inquisition, smuggled home by Koa, married the High Clan Leader | 🔒 | Twists doc | 2026-09-09 |
+| B-21 | The mother: sailed back to destroy her records when Adira was four; ambushed; escaped into the surf and vanished — **alive as of the story's present** (new series twist) | 🔒 | Author ruling 2026-09-09; twists doc | 2026-09-09 |
+| B-22 | The mother: where she has been, why she never came home, who else knows, payoff book | 🔓 | Open — tracked in the ledger (B2/B3 slot) | — |
+| B-23 | Adira's belief: her mother died at sea when she was four — never questioned it | 🔒 | Author ruling (ledger Q3 resolved) | 2026-09-09 |
+| B-24 | Locket secrecy: only Adira and her mother ever knew what is inside | 🔒 | Mount Kora doc (amended) | 2026-09-09 |
+| B-25 | The four core twist rules: zero islander knowledge (except Elders) • betrayals only from the mainland hierarchy • the isles threatened, never destroyed • Kyrell 100% self-made | 🔒 | Twists doc; ledger | 2026-09-09 |
+| B-26 | The injured man: no beats assigned — whether he appears on-page at all is fully open (the theft-injury itself stays locked as the cost) | 🔓 | Author ruling 2026-09-09 | — |
+| B-27 | Whether Koa knows the mother's true fate | 🔓 | Open — noted in Koa file | — |
 
 ### Pass A — The Leads (ratified & applied 2026-09-09)
 

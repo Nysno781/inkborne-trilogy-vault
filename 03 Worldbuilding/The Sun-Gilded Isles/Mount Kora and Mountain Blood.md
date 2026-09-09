@@ -26,5 +26,5 @@ tags:
 
 * **The Pendant:** A hermetically sealed teardrop pendant carved from translucent black volcanic obsidian, framed in polished mother-of-pearl and hung from a braided sea-grass cord.
 * **What Lies Inside:** A single, pure, unadulterated droplet of raw subterranean Prime Ink (*Mountain Blood*).
-* **Origin:** [[01 Characters/Leads/Adira Solari|Adira Solari]]'s late mother secretly harvested the drop from a fissure near Mount Kora's rim and gave the locket to her daughter with no explanation — no warning, no instruction, no reason given. Adira knows what it holds; she has never known why. The unexplained gift is her private mystery to carry.
-* **Secrecy:** Only Adira and her late mother know what is inside. To the rest of the world, it appears as an ancestral mourning keepsake.
+* **Origin:** [[01 Characters/Leads/Adira Solari|Adira Solari]]'s mother secretly harvested the drop from a fissure near Mount Kora's rim and gave the locket to her daughter with no explanation — no warning, no instruction, no reason given. Adira was four when her mother sailed away and never came back; she was raised believing her mother died at sea (the truth is tracked in the [[07 Planning/Inkborne Secrets and Twists Ledger|Secrets & Twists Ledger]]). She knows what the locket holds; she has never known why. The unexplained gift is her private mystery to carry.
+* **Secrecy:** Only Adira and her mother ever knew what is inside. To the rest of the world, it appears as an ancestral keepsake.

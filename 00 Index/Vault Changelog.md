@@ -77,3 +77,17 @@ tags:
 
 * **Ruling:** she reads Kyrell the way any attentive person reads someone they're falling for — **no special tell-reading ability, no "only one alive" claim**. Applied across her file (the "Observational Genius / Only Reader of His Ink" skill removed), the capabilities sheet, the style guide & voice bible, the circuits doc (now "No Unique Reader" — anyone paying attention can learn the flickers), the compass symmetry, the act map (Ch19–20), the outline's locked Ch13 beat (the flicker stays; "She alone can read it" removed), the dev log, the ledger, and Kyrell's file.
 * The Ch13 "she says *Kyrell* — something flickers under his collar" beat survives: the ink-flicker physics are magic canon; the noticing is now ordinary attentiveness.
+
+---
+
+## 2026-09-09 — Pass B applied: Allies & Supporting (author rulings)
+
+* **Ages:** Lucan 31 (was 32); Ronan 25 (was 24).
+* **NEW SERIES TWIST — the mother lives:** Adira's mother did not die; she escaped the ambush and is alive as of the story's present (whereabouts/why/who-else-knows open; ledger row added; Twist 5 added to the twists catalog).
+* **Timeline re-anchored to Adira's age:** Koa's voyage 30 years ago → rescue & marriage → Adira born 23 years ago → **the mother sailed back when Adira was four (19 years ago)** → ambush, Koa captured, mother vanished → Adira raised believing her mother died at sea. Koa's captivity corrected 12 → **19 years** everywhere (his file, act map Ch26, ledger, README, twists doc).
+* **Ruling 1a — Koa never broke:** Thalor holds the captured outrigger but NOT the wind-bearings; the armada has hulls but no heading and cannot find the isles. Fixed the compass/ledger claims that Thalor had the bearings.
+* **Sera: name locked** (identity/thread still open).
+* **Injured-man beats removed** — fully open whether he appears on-page at all; the theft-injury itself (compass-locked cost) stays.
+* **Ruling 5b — Lucan's glyphs upgraded to Prime ink** (dormant, concealable, via Kyrell's supply) — fits his double life.
+* **Ruling 6a — Ronan's gear is ironwood** (spear shaft + bow), matching isle materials.
+* **Locket secrecy amended:** "only Adira and her late mother" → "only Adira and her mother ever knew."

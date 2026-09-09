@@ -52,7 +52,7 @@ tags:
 * **The Mother's Locket:**
   * A hermetically sealed teardrop pendant of translucent black volcanic obsidian framed in polished mother-of-pearl.
   * Holds a single, pure droplet of raw subterranean **Prime Ink** (*"Mountain Blood"*).
-  * Given by her late mother with no explanation at all — no warning, no instruction. Adira knows **what** it holds, but she has never known **why** her mother sealed a drop of the mountain's blood inside; her mother died without telling her.
+  * Given by her mother with no explanation at all — no warning, no instruction. Adira was four when her mother sailed away and never came back; she was raised believing she died at sea. She knows **what** the locket holds, but she has never known **why** her mother sealed a drop of the mountain's blood inside — the question is hers alone to carry.
 
 ---
 
