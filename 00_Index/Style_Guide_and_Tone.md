@@ -27,7 +27,6 @@ tags:
 * **Enemies-to-Allies-to-Lovers Trajectory:** Initial wariness and tactical suspicion transform through shared danger, competence, and vulnerability into fierce, unshakeable devotion.
 * **Angst & Jealousy:** Deep emotional stakes, high-society ballroom friction, protective instincts, and the agonizing weight of duty versus personal desire.
 * **Touch-Starvation & Micro-Tells:** 
-  * Mainland culture treats bare skin as intensely private (gloves worn at all times).
   * The progressive removal of gloves, accidental brush of fingers over primed tattoos, and tending of wounds carry immense erotic and emotional charge.
   * Adira is the *only* person in the world who can read Kyrell’s subtle ink micro-tells beneath his collar and wrists.
 
