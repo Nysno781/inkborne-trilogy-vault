@@ -55,14 +55,14 @@
 
 ## Ch9 — The Capture & the Confrontation
 - Cornered at last. The order Adira overhears chills her: **"Alive. He wants them alive."**
-- ✅ The confrontation (locked beats): a room of hard men who want blood — including the man Ronan injured. The long silence. Adira reads him before he speaks: gloved hands, stillness, patience — he watches her the way she watches the sea. She is a wayfinder in a box with no sky.
+- ✅ The confrontation (locked beats): a room of hard men who want blood. The long silence. Adira reads him before he speaks: gloved hands, stillness, patience — he watches her the way she watches the sea. She is a wayfinder in a box with no sky.
 - She speaks first — asks if Ronan lives, then offers herself to spare the others. First genuine surprise on his face: the leader is the bare-skinned girl.
 - ✅ He publicly withholds punishment — turns their crime into proof of his control. His men obey instantly when he overrules them. ✅ He claims them as **debt, unspecified.** Not death. Not freedom.
 - 🔶 One beat: when she looks him full in the face, something flickers under his collar and he goes very still. She files it; she doesn't understand it.
 - (The missing locket aches through the whole scene like a pulled tooth.)
 
 ## Ch10 — The Terms & the Household
-- ✅ Not prisoners — debtors, put to work. 🔶 To Adira's shock, Kyrell actually sends Ronan to his physician — she cannot reconcile it. Ronan will work guard/labor once healed. The handmaiden — Sera (working name) — is set to a safe household post (her full identity still open).
+- ✅ Not prisoners — debtors, put to work. 🔶 To Adira's shock, Kyrell actually sends Ronan to his physician — she cannot reconcile it. Ronan will work guard/labor once healed. The handmaiden — Sera (name locked) — is set to a safe household post (her full identity still open).
 - **Adira is kept near Kyrell** — assigned to the counting/manifest work of his household. She waits for the trap, sure he's planning something worse. She learns the shape of his domain, hates it, and hates that it's clean and orderly.
 - She realizes the locket is truly gone (no chance to search the warehouse). Grief + a new terror: the drop is loose in the world. She cannot act.
 
@@ -71,7 +71,6 @@
 - Adira notices he watches her — her throat, her hands, the way she moves. Disturbed, she can't explain it. (Reader wonders with her — single POV.)
 - **Lucan** enters: teasing, warm, calls her "the bare-skinned wonder." She dislikes and secretly likes him. Through him the household breathes.
 - 🌱 **Vance as shadow:** a sealed letter arrives; even Lucan's grin thins. Adira overhears a name she'll learn to fear — *Vance.* The men go quiet. She stores it.
-- 🔶 The injured man: she meets his eyes across a yard once and doesn't look away. It costs her something.
 
 ## Ch12 — The First Task
 - He tests her. A task only she can do: she is **unmarked** — invisible to the Inquisition's ink-sense. (Crane enters the story as a name and a terror: purges sweeping the coast, posters, checkpoints.)
@@ -82,7 +81,7 @@
 ## Ch13 — The Road to Veridia
 - Kyrell concludes his coastal business and takes the household (debtors included) up the River Aethel toward Veridia. Forced proximity without pressure: deck work, night watches, shared silences.
 - Adira glimpses the man behind the gloves: he has a wounded smuggler treated without ceremony; at a river stop, street orphans cling to his coat and he lets them; his men obey from loyalty, not fear. Her picture of the monster cracks.
-- **The first micro-tell she names:** she says his name plainly — *Kyrell* — and something flickers under his collar; he goes very still. She alone can read it. She doesn't know what it means yet, but she files it like a landmark.
+- **The first tell she names:** she says his name plainly — *Kyrell* — and something flickers under his collar; he goes very still. Nothing mystical — she simply notices, the way you notice any man's composure slip — and files it like a landmark.
 - 🔶 Lucan + Ronan banter (the duo comes alive); a quiet scene where the handmaiden and Adira speak of home.
 - Arrival at the edge of Veridia — Tier 3, The Sinks, waits below. (End of Act II; hook into Act III.)
 
@@ -90,14 +89,13 @@
 
 ## Flags on applied defaults (veto any)
 - 🔶 Ch3: the recovered guard = the **guard-captain**; Ronan took a **festering gash** in the wreck (drives the fever clock). The captain can be named if you want the rite to hurt more.
-- 🔶 Ch9: the injured man is **present** at the confrontation (the blood-lust in the room is his).
 - 🔶 Ch12: first task = **courier pouch past a checkpoint** (clean test of nerve; can escalate later).
-- 🔓 Still open: handmaiden's name/identity; whether Adira knew **Koa** personally as a child (affects Act IV); locket-in-Book-1 (subtext vs. late glimpse); exact midpoint reversal.
+- 🔓 Still open: Sera's age/identity/thread; whether Adira knew **Koa** personally as a child (affects Act IV); locket-in-Book-1 (subtext vs. late glimpse); exact midpoint reversal.
 
 ---
 
 ## Open items carried forward (from act map)
-1. Handmaiden: name, age, identity, her thread.
+1. Handmaiden: Sera (name locked) — age, identity, her thread still to design.
 2. Midpoint reversal (Ch16) choice.
 3. Locket-in-Book-1: subtext only, or a late glimpse as cliffhanger?
 4. Crane's end-of-book fate; whether Vance learns the armada's true purpose.

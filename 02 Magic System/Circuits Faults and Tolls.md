@@ -27,7 +27,7 @@ tags:
 
 | Ink Type | Material Composition | Visibility State | Micro-Tell Behavior |
 | :--- | :--- | :--- | :--- |
-| **Prime Military Ink** | Pure, unadulterated subterranean Prime Ink from [[03 Worldbuilding/The Valerian Empire/Veridia Metropolis\|The Weeping Deep]] or [[03 Worldbuilding/The Sun-Gilded Isles/Mount Kora and Mountain Blood\|Mount Kora]]. | **Dormant beneath dermis as a learned reflex.** Costs nothing to maintain. Skin appears smooth/bare. | Full bloom during sleep/unconsciousness; **momentary shadow-flicker** on collarbone/wrist during sudden emotional flare. |
+| **Prime Military Ink** | Pure, unadulterated subterranean Prime Ink from the Crown's Weeping Deep wells — or, far more rarely, smuggled cut from the Private Northern Seep in the Ironcrag mountains. | **Dormant beneath dermis as a learned reflex.** Costs nothing to maintain. Skin appears smooth/bare. | Full bloom during sleep/unconsciousness; **momentary shadow-flicker** on collarbone/wrist during sudden emotional flare. |
 | **Street-Cut Contraband** | Prime Ink diluted with mundane pitch-resin and soot carrier. | **Permanently visible dull slate-grey brand.** The inert carrier cannot sink into neural tissue. | Permanently visible; cannot be concealed regardless of training. A life sentence in the underworld. |
 
 ---
@@ -56,4 +56,4 @@ Kyrell carries **8 glyphs: 5 isolated, 3 interwoven junction points**. Junctions
 ```
 
 * **The Bloom Tell:** Under extreme physical exhaustion, these 3 junction points **bloom first** as dark, burning bruises before the rest of his ink surfaces.
-* **The Only Reader:** [[01 Characters/Leads/Adira Solari|Adira]] is the only person observant enough to read both his emotional micro-tells and his junction fatigue.
+* **No Unique Reader:** the flickers are subtle — most people never look closely enough to catch them — but reading them takes nothing more than attention. There is no special sense involved; anyone who truly watches him (as Adira comes to) can learn them.

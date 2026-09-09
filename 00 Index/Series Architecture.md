@@ -39,13 +39,12 @@ Like the gold standard fantasy hierarchies (e.g., *ACOTAR*’s Amarantha → Kin
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ BOOK 2: THE BUREAUCRATIC ARCHITECT (The Corrupt System & High Court)                                 ║
 ║ • CHANCELLOR HECTOR VANCE                                                                            ║
-║   - The cold, inkless minister hiding behind laws, ledgers, and court manipulation.                  ║
-║   - Believes he is the master puppeteer—until he is exposed before the dying King.                   ║
+║   - The cold, secretive minister hiding behind laws, ledgers, and court manipulation.
+║   - Believes he is the master puppeteer.
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ BOOK 3 / SERIES APEX: THE MAD GOD-PRINCE (The Supreme Apocalypse)                                    ║
+║ BOOK 3 / SERIES APEX: PRINCE CORIN VALERIUS (The Supreme Threat)
 ║ • PRINCE CORIN VALERIUS (The Frozen Heir / Batch I Prototype)                                        ║
-║   - The manic, 10-glyph demigod who descends from the frozen wastes, usurps the throne, and turns    ║
-║     the entire continent into an active warzone to seize Mount Kora's pure Mountain Blood.          ║
+║   - The apex threat. His motives, his following, and his arc: OPEN (stripped to basics).
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 

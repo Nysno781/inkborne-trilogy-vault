@@ -58,4 +58,58 @@ tags:
 * **Decision (author-confirmed): the Batch II experiments happened 18 years ago.** Kyrell was fourteen — a true child of the gutters, matching Lucan's locked story (he met Kyrell at 14, half-dead out of the northern flumes, and has stood beside him for the 18 years since).
 * Kyrell's file corrected from "15 years ago" to "18 years ago, at age fourteen." Lucan's file needed no change.
 * Corin's "15 years ago" dates (the stasis awakening and Vance's death-lie) are a separate timeline and remain untouched.
+---
 
+## 2026-09-09 — Pass A applied: The Leads (author rulings)
+
+* **Bulk-ratified:** 27 lead facts locked into the Canon Status Register (identities, magic, weapons, limits, arcs).
+* **Ruling — bare-hands trope removed:** "gloves off = intimacy/vulnerability" declared cliche and erased everywhere it appeared (the Glove Strip custom, the style guide & voice bible beats, the compass armor line, Kyrell's appearance box). Gloves stay as wardrobe + palm-glyph concealment; touch-starvation continues via wound-tending, the almost-touch, the mantle-drape, the three-dance rule.
+* **Ruling — height:** Adira is 5'5" (165 cm), corrected from 5'8".
+* **Ruling — English only:** all island-language words removed (te Solari, Te Hā, The Umu); customs renamed in English (the Obsidian Breath, the Communal Earth-Oven); the Ch1 draft prose patched to match.
+* **Ruling — junction faults (1A):** the Circuits-doc mechanical version is canon; Kyrell's file now carries the three glyph-pair faults + the bloom tell instead of the old symptomatic list.
+* **Ruling — the locket:** no maternal warning exists. The locket is an unexplained gift — Adira knows what it holds, never why her mother sealed Mountain Blood inside. Updated across her file, the Mount Kora doc, the compass, and the secrets ledger (the "guide you home" seed superseded by "the unexplained purpose" seed, payoff Book 3).
+* **Ruling — "The Unmarked Bride" alias (3B):** dropped; parked in the register graveyard.
+* **Ruling — glyph origin (4A):** all 8 of Kyrell's glyphs were inked during Batch II at age 14.
+* **Open (A-29):** who can read Kyrell's micro-tells/junction fatigue — clarification requested.
+---
+
+## 2026-09-09 — Pass A follow-up: A-29 resolved (option c)
+
+* **Ruling:** she reads Kyrell the way any attentive person reads someone they're falling for — **no special tell-reading ability, no "only one alive" claim**. Applied across her file (the "Observational Genius / Only Reader of His Ink" skill removed), the capabilities sheet, the style guide & voice bible, the circuits doc (now "No Unique Reader" — anyone paying attention can learn the flickers), the compass symmetry, the act map (Ch19–20), the outline's locked Ch13 beat (the flicker stays; "She alone can read it" removed), the dev log, the ledger, and Kyrell's file.
+* The Ch13 "she says *Kyrell* — something flickers under his collar" beat survives: the ink-flicker physics are magic canon; the noticing is now ordinary attentiveness.
+
+---
+
+## 2026-09-09 — Pass B applied: Allies & Supporting (author rulings)
+
+* **Ages:** Lucan 31 (was 32); Ronan 25 (was 24).
+* **NEW SERIES TWIST — the mother lives:** Adira's mother did not die; she escaped the ambush and is alive as of the story's present (whereabouts/why/who-else-knows open; ledger row added; Twist 5 added to the twists catalog).
+* **Timeline re-anchored to Adira's age:** Koa's voyage 30 years ago → rescue & marriage → Adira born 23 years ago → **the mother sailed back when Adira was four (19 years ago)** → ambush, Koa captured, mother vanished → Adira raised believing her mother died at sea. Koa's captivity corrected 12 → **19 years** everywhere (his file, act map Ch26, ledger, README, twists doc).
+* **Ruling 1a — Koa never broke:** Thalor holds the captured outrigger but NOT the wind-bearings; the armada has hulls but no heading and cannot find the isles. Fixed the compass/ledger claims that Thalor had the bearings.
+* **Sera: name locked** (identity/thread still open).
+* **Injured-man beats removed** — fully open whether he appears on-page at all; the theft-injury itself (compass-locked cost) stays.
+* **Ruling 5b — Lucan's glyphs upgraded to Prime ink** (dormant, concealable, via Kyrell's supply) — fits his double life.
+* **Ruling 6a — Ronan's gear is ironwood** (spear shaft + bow), matching isle materials.
+* **Locket secrecy amended:** "only Adira and her late mother" → "only Adira and her mother ever knew."
+
+---
+
+## 2026-09-09 — Pass C applied: Antagonists scaled back (author rulings)
+
+* **Corin stripped to basics** — his file rebuilt with identity, appearance, 10 glyphs, the stasis backstory, the wolf, and his fighting style only. Removed: the northern conquest & Ashen Host, his Mountain Blood need, any knowledge of Adira/locket, the B2 slaughtering-Vance arrival, the B3 Mount Kora climax, and the "zero Corin in Book 1" lock. All of it is now OPEN.
+* **Age math fixed (1b):** he was an adult at the pact 25 years ago; ten stasis years leave him physically ~40 (was ~27 — impossible math).
+* **His beast is just a wolf** (ruling 4) — "Great Northern Shadow-Wolf" dropped.
+* **Vance:** Blank Flesh condition, the dissection motive, and his B2 end (exposed before the King, murdered by Corin) all removed — motivation and end now OPEN. His age, offices, web of lies, and Book 2 role stand.
+* **Thalor:** B1 outcome removed — end-of-book fate OPEN (5c).
+* **Crane:** end-of-book fate stays OPEN (6c).
+* **Theron:** moved to the new **01 Characters/Supporting** folder (7a); his stance on Adira's disappearance left OPEN (8c). All links updated.
+* Trilogy Overview & Series Architecture trimmed to match (Book 3 title now open; Book 2 milestone now open; no Corin-spoilers). Ledger, dev log, README, MOC synced.
+
+---
+
+## 2026-09-09 — Pass D applied: Magic System (author rulings)
+
+* **Ruling 1a — plain beast names:** "Eurasian Lynx" → **the Lynx**, "European Adder" → **the Adder** (Discipline 3 catalog + Kyrell's file). Matches the "just a wolf" convention from Pass C.
+* **Ruling 2a — third-source leak fixed:** the Circuits doc's ink table no longer names Mount Kora as a Prime ink source — the two known sources are the Weeping Deep and the Private Northern Seep (Ironcrag). The Book 1 mystery is protected again.
+* **Ruling 3a — the 12-device catalog stays locked** as a closed list.
+* 25 magic facts locked in the register (the medium, the laws, all 16 glyphs, the tolls, ink types, Crane's variant, the assay engine).

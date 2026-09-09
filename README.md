@@ -26,14 +26,16 @@
 ### The Allies & Companions
 * [[01 Characters/Allies/Lucan Cross|Lucan Cross]] — Chief of Smuggling • Managing Director of Grand River Freight • Kyrell's Right Hand
 * [[01 Characters/Allies/Ronan|Ronan]] — High Clan Guard • Sea-Spear Master • Adira's Loyal Companion
-* [[01 Characters/Allies/Master Koa|Master Koa]] — The First Explorer • Twelve years captive in Port Morwen's sea-dungeons
+* [[01 Characters/Allies/Master Koa|Master Koa]] — The First Explorer • Nineteen years captive in Port Morwen's sea-dungeons
 
 ### The Antagonist Hierarchy
-* **Apex Threat:** [[01 Characters/Antagonists/Prince Corin Valerius|Prince Corin Valerius]] — The Ashen God • Frozen Heir • 10-Glyph Demigod
-* **Court Architect:** [[01 Characters/Antagonists/Chancellor Hector Vance|Chancellor Hector Vance]] — Inquisitorial Chancellor • Blank Flesh
+* **Apex Threat:** [[01 Characters/Antagonists/Prince Corin Valerius|Prince Corin Valerius]] — The Frozen Heir • 10-Glyph Apex • Motives Open
+* **Court Architect:** [[01 Characters/Antagonists/Chancellor Hector Vance|Chancellor Hector Vance]] — Inquisitorial Chancellor
 * **Purge Commander:** [[01 Characters/Antagonists/Inquisitor Valerius Crane|Inquisitor Valerius Crane]] — Grand Inquisitor • State Hound
 * **Regional Rival:** [[01 Characters/Antagonists/Duke Garrick Thalor|Duke Garrick Thalor]] — Master of Port Morwen • Timber Hoarder
-* **Island Traditionalist:** [[01 Characters/Antagonists/Theron of Clan Korvos|Theron of Clan Korvos]] — Eldest Heir of the Obsidian Quarry
+
+### Supporting — On the Isles
+* [[01 Characters/Supporting/Theron of Clan Korvos|Theron of Clan Korvos]] — Adira's Betrothed • Eldest Heir of the Obsidian Quarry
 
 ---
 

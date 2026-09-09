@@ -48,7 +48,7 @@
 - **Ch14–15 — The Sinks.** Veridia Tier 3: the Black Cistern, the catacomb underworld, rogue scriptoriums, ink vaults. Adira sees the *scale* of who she's bound to — and the truth under it: a man who shelters street orphans, who survived the same gutters he now owns. Her picture of him cracks open.
 - **Ch16 — MIDPOINT REVERSAL.** *(The big turn — pick/refine.)* Candidate: a purge by Crane nearly takes her (or Ronan/handmaiden); Kyrell chooses to burn an operation rather than let her be taken — costing him real ground, with no explanation she can parse. Or: she uses her **wayfinding** openly for the first time to save his people on the river — and he realizes she is not "unmarked and useful" but *priceless* — and she realizes she just revealed a piece of herself. Either way: the balance of the book flips from "why is he keeping me" to "we are in this together now."
 - **Ch17–18 — The escalating threat.** Thalor's coastal pressure + Crane's purges tighten. Kyrell's own Thalor thread hits **dead ends** (the guardrail: Thalor stays smart). Adira's sea-eye starts noticing what his land-eye misses — ship timbers, drafts, currents, a shipwright's tell — *his* investigation starts moving because of *her*.
-- **Ch19–20 — The slow-burn ignition.** Touch-starvation beats land here: a wound she takes, his gloved hands steadying her; the first time she catches his **micro-tells** and reads him without meaning to — and he knows she did. Jealousy beat (a mainland merchant/noble courts or diminishes her; his stillness does the talking). He falls first — evidenced only by choices: restraint, protection, keeping her close for reasons that no longer match "asset." She begins to fall and doesn't know it yet.
+- **Ch19–20 — The slow-burn ignition.** Touch-starvation beats land here: a wound she takes, his gloved hands steadying her; the first time she reads his mood without him meaning to show it — ordinary attentiveness, nothing more — and he knows she did. Jealousy beat (a mainland merchant/noble courts or diminishes her; his stillness does the talking). He falls first — evidenced only by choices: restraint, protection, keeping her close for reasons that no longer match "asset." She begins to fall and doesn't know it yet.
 - **Ch21 — The fracture (no-misunderstanding rule applies).** A real, earned conflict — *not* a miscommunication. Candidates: he withholds something true (the locket — park or play, see open qs); or she learns a truth about his past (Batch II, the flumes) from someone else and must confront him directly about what it means for who she's becoming to him.
 - **Ch22 — The decision to go back.** A concrete catalyst points them coast-ward: intel that Thalor holds a *prisoner* in the Port Morwen sea-dungeons — a wayfinder, an islander, taken years ago (Koa — but Adira doesn't know he's alive). A reason to sail back into the lion's den: for the debt, for answers, for the chance of home.
 
@@ -64,16 +64,16 @@
 
 - **Ch23–24 — The return to the coast.** Back to Thalor's country, in disguise, under the pressure of Crane's patrols. Recon: the shipyards, the sea-dungeons, the armada taking shape in plain sight. Adira's dread and skill both peak — she must navigate *and* hide who she is.
 - **Ch25 — The raid on Port Morwen.** Canon milestone. The coordinated strike — Kyrell's people, Lucan's cunning, Ronan's spear, Adira's wayfinding through the sea-caves at night. Chaos, cost, narrow escapes.
-- **Ch26 — The freeing of Master Koa.** The reveal that shatters her: **he is alive.** Twelve years in the flooded dark. His survival proves her mother had a secret past — and that Thalor has been building a **private invasion armada**. (The smart-antagonist payoff: Thalor is outwitted but not undone — his secret is *out*, and that makes him more dangerous, not less.)
+- **Ch26 — The freeing of Master Koa.** The reveal that shatters her: **he is alive.** Nineteen years in the flooded dark. His survival proves her mother had a secret past — and that Thalor has been building a **private invasion armada**. (His end-of-book fate: OPEN.)
 - **Ch27 — The counter.** Thalor + Crane's response — a hunt, a trap, a last stand at the water's edge. The "odds of survival" crest: they go in believing it may be their last day.
 - **Ch28 — The romance crest.** Kyrell's locked arc moment: he is ready to **burn himself** to buy her escape — and **she refuses to let him**, and pulls him back. The rescue is hers. (She falls harder here — she sees the man who would immolate for her choose to live for her instead.) First declaration — earned, not rushed. Not consummation; the *crest of the wanting*.
-- **Ch29 — The cost & the aftermath.** Bittersweet-not-bitter: they survive, Thalor's armada secret is exposed to those who matter, Koa is free — but they cannot go home (the sea still refuses), Kyrell's position is damaged, and Vance's interest is now awake (the machinery of Book 2 begins to turn). Koa knows the truth of the mother; Adira carries it.
+- **Ch29 — The cost & the aftermath.** Bittersweet-not-bitter: they survive, Koa is free — but they cannot go home (the sea still refuses), and Kyrell's position is damaged. (Open: what the raid exposes of the armada, and whether Vance's interest wakes — the Book 2 seam.)
 - **Ch30 — The hook.** Forced toward the **High Citadel** — the court, the dying King, the Chancellor — with the armada shadow and the third-source secret both in play. Final image: Adira and Kyrell, not yet lovers, already bound — stepping together into the world that will try to break them. *(Also decide: the locket — does she see it in his possession here, or does it wait for Book 2?)*
 
 ### 🔓 Open in Act IV
 - The locket question (see above) — the single biggest Book 1/2 seam to decide.
 - Who among the secondary cast is most at risk in the raid (rule: no cheap deaths — if anyone falls, it must be earned and set up).
-- How much of Koa's knowledge comes out now vs. saved (mother's full mainland past; the wind-bearings Thalor took; what he endured).
+- How much of Koa's knowledge comes out now vs. saved (mother's full mainland past; whether he knows her fate; what he endured).
 
 ---
 
@@ -84,7 +84,7 @@
 - **C2 — The pursuit (Act II).** Three nobodies vs. the Shadow Sovereign's network. **Solved by changing the terms of the fight:** she turns the capture into a negotiation — offers herself, bargains for Ronan — converting prey → debtor. **Cost:** her freedom. (The capture isn't a defeat; it's the engine that makes the book possible.)
 - **C3 — The debt (Acts II–III).** Can she survive *his* world without becoming the "blank" the mainland says she is? **Solved by competence that forces respect** — each task well-done shrinks the debt and (unknown to her) makes him less able to use her as an "asset." **Cost:** she performs for a man whose true motive she can't see.
 - **C4 — Crane, the State's hound (Acts II–III).** He can legally dissolve Kyrell's empire and would find three paperless foreigners fascinating. **Solved by asymmetry:** Adira is **invisible to his ink-sense** (he reads magic resonance; she has none) — she moves through his blind spots. **Cost:** she must keep entering the lion's den; the midpoint near-miss makes the fear real.
-- **C5 — Thalor & the raid (Act IV).** Free Koa, learn the mother's truth, face the invasion threat. **Solved by the coordinated raid** — Kyrell commands, Lucan schemes, Ronan fights, Adira's wayfinding opens the sea-caves at night. **Not solved by killing Thalor:** exposing him summons Vance, who liquidates him and seizes the armada. **Cost:** a victory that hands the weapon to a worse hand.
+- **C5 — Thalor & the raid (Act IV).** Free Koa, learn the mother's truth, face the invasion threat. **Solved by the coordinated raid** — Kyrell commands, Lucan schemes, Ronan fights, Adira's wayfinding opens the sea-caves at night. **Thalor's end-of-book fate: OPEN** — what the raid exposes, and whether Vance intervenes, is undecided. **Cost:** a victory that may hand the weapon to a worse hand.
 
 ## Conflict architecture (Levels 2 & 3) — romance & internal
 - **Romantic conflict (structural):** two people hiding truths that would change everything, falling in love anyway. His secret: **why he keeps her** (locket → third source). Her secret: **who she is** (wayfinder, hidden land, Mountain Blood). This is NOT the misunderstanding trope — it's two *earned secrets*; intimacy is impossible until each pays the price of honesty. **Solved in Book 1 only partially:** the Act IV crest = choosing each other (she reveals her truth to save him; he lets the lead go rather than trade her — shown through action). The **locket secret survives into Book 2** as that book's trust-crisis engine.
@@ -94,7 +94,7 @@
 ---
 
 ## Still on the table before drafting Ch1
-1. Handmaiden: Sera (working name) — age, identity, her thread.
+1. Handmaiden: Sera (name locked) — age, identity, her thread.
 2. Locket-in-Book-1: hints only, or the fracture, or the Act IV sighting?
 3. Midpoint reversal choice.
 4. The first task (Act II) — what it is.

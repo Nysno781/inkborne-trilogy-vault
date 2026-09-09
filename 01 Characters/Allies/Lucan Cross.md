@@ -18,7 +18,7 @@ tags:
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                        LUCAN CROSS (AGE 32)                                          ║
+║                                        LUCAN CROSS (AGE 31)                                          ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ • Height & Build: 6'3" (190 cm) • Broad-shouldered, athletic, roguish, imposing build.                ║
 ║ • Complexion: Lightly weathered fair skin • Minor scars from river skirmishes.                       ║
@@ -48,7 +48,7 @@ tags:
 * **Disciplines Held:** **Discipline 1 (Physical / Kinetic) — 2 Street-Cut Glyphs:**
   * **Glyph 1: Speed — The Chevron Stack (Right Calf):** Burst propulsion and rapid directional redirection — explosive sprinting speed, agile leaping across river barges, and fast lateral repositioning.
   * **Glyph 2: Kinetic Deflection Shield — The Keystone (Left Inner Forearm):** A transparent plane of compressed kinetic force — deflects crossbow bolts, stiletto thrusts, and bludgeoning strikes.
-* **Inking Quality:** Hand-poked in the catacombs by a master rogue inker using refined pitch-salve. Smooth, reliable circuitry with zero junction faults.
+* **Inking Quality:** Prime ink, secured through Kyrell's supply and hand-poked in the catacombs by a master rogue inker — dormant beneath the dermis and invisible at rest, suited to his double life. Smooth, reliable circuitry with zero junction faults.
 
 ---
 

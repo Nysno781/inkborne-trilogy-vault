@@ -18,7 +18,7 @@ tags:
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                        RONAN (AGE 24)                                                ║
+║                                        RONAN (AGE 25)                                                ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ • Height & Build: 6'1" (185 cm) • Broad-shouldered, rugged, athletic build forged in heavy seas.      ║
 ║ • Complexion: Golden-bronze, sun-weathered island skin • Completely unmarked canvas (zero ink).      ║
@@ -42,14 +42,14 @@ tags:
 
 ## 1. Weapons & Combat Specialization
 
-* **Three-Pronged Sea Spear / Heavy Harpoon:** Ash-wood shaft with hand-ground obsidian tines. Lethal at range and close quarters.
-* **Heavy Horn-and-Yew Shortbow:** Fast-drawing composite bow for perimeter defense.
+* **Three-Pronged Sea Spear / Heavy Harpoon:** Ironwood shaft with hand-ground obsidian tines. Lethal at range and close quarters.
+* **Heavy Horn-and-Ironwood Shortbow:** Fast-drawing composite bow for perimeter defense.
 * **Shark-Tooth Knuckle Dagger:** Close-quarters defense against grapplers.
 
 ---
 
 ## 2. Dynamics & Relationships
 
-* **Brotherhood with [[01 Characters/Leads/Adira Solari|Adira Solari]]:** Purely platonic, fierce sibling bond. He knows she accepted the arranged betrothal to [[01 Characters/Antagonists/Theron of Clan Korvos|Theron]] as duty — shouldered without complaint, never fled — and still vows to keep her safe.
+* **Brotherhood with [[01 Characters/Leads/Adira Solari|Adira Solari]]:** Purely platonic, fierce sibling bond. He knows she accepted the arranged betrothal to [[01 Characters/Supporting/Theron of Clan Korvos|Theron]] as duty — shouldered without complaint, never fled — and still vows to keep her safe.
 * **Friction with [[01 Characters/Leads/Kyrell Mavaros|Kyrell Mavaros]]:** Immediately draws steel to protect Adira from the towering Crime Lord; slowly develops deep respect as Kyrell bleeds to protect her.
 * **Banter Duo with [[01 Characters/Allies/Lucan Cross|Lucan Cross]]:** Trades sarcastic jabs about mainland gloom and island fish while backing each other in combat.

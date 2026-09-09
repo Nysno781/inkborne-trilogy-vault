@@ -28,13 +28,13 @@ tags:
   3. *Brown Bear* (North • Door-Breaking Mass)
   4. *War Horse* (East • Speed & Mounted Impact)
   5. *Red Fox* (Any • Infiltration & Small Gaps)
-  6. *European Adder* (North • Confined Ambush)
+  6. *Adder* (North • Confined Ambush)
   7. *Black Raven* (Any • Aerial Scouting)
   8. *Hunting Falcon* (Any • High-Speed Aerial Stoop)
   9. *Barn Owl* (Any • Silent Night Recon)
   10. *River Trout* (East • Submerged Scouting)
   11. *Wolverine* (North Mountains • Unyielding Ferocity)
-  12. **Eurasian Lynx** (North • Silent Ambush, Shadow Vision, Precision Throat Kill — *Held by [[01 Characters/Leads/Kyrell Mavaros|Kyrell Mavaros]]*).
+  12. **Lynx** (North • Silent Ambush, Shadow Vision, Precision Throat Kill — *Held by [[01 Characters/Leads/Kyrell Mavaros|Kyrell Mavaros]]*).
 
 ### 2. Partial Manifestation (The Broken Arc)
 * **Visual Geometry:** Sweeping curve interrupted by a clean gap with two inward-pointing spur strokes.

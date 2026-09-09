@@ -30,19 +30,19 @@ tags:
 │ • On the Port Morwen wharves, he met ADIRA'S MOTHER—a sharp-eyed mainlander running for    │
 │   her life from Inquisitorial cruelty. Recognizing a kindred soul, he smuggled her home.    │
 │ • The Elders swore an oath of secrecy and reinforced the Caldera Taboo to protect paradise. │
-│ • The Mother married Adira's father on Solara, living a decade of true peace.               │
+│ • The Mother married Adira's father on Solara, living more than a decade of true peace.      │
 └──────────────────────────────────────────────┬──────────────────────────────────────────────┘
                                                │
                                                ▼
 ┌──────────────────────────────────────────────┴──────────────────────────────────────────────┐
-│ 12 YEARS AGO: THE FINAL VOYAGE & THE TRAGIC AMBUSH                                          │
+│ 19 YEARS AGO: THE FINAL VOYAGE & THE TRAGIC AMBUSH                                          │
 │ • Adira's Mother realized she had left dangerous personal records in a coastal safehouse    │
 │   that could lead Inquisitors west. She convinced Master Koa to sail her back for one       │
 │   final covert night-mission to destroy them.                                               │
 │ • Duke Thalor’s patrols ambushed them on the beach. Koa fought to buy her time to escape in │
-│   the surf. Believing Koa died, she returned home heartbroken and passed away.              │
+│   the surf. She vanished into the western seas — Adira, four, was told her mother died.      │
 │ • THE REVEAL: MASTER KOA SURVIVED. Duke Thalor locked him in the sea-dungeons of Port       │
-│   Morwen for 12 years, using his outrigger to secretly build a private invasion fleet!      │
+│   Morwen for 19 years, using his captured outrigger to build a private invasion fleet!       │
 └─────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -54,6 +54,7 @@ tags:
 * **Twist 3: Lucan Cross is the Secret Royal Bastard:** The Decoy Prince reveal. Lucan is the King's unacknowledged son (half-brother to Prince Corin). He abdicates all claims, crowning Kyrell as Sovereign Governor.
 * **Twist 4: The "Blank" Crown Prince Inked on His Tongue:** Secretly whispers kinetic command frequencies to control servants and plot against Vance.
 
+* **Twist 5: The Mother Lives:** Adira's mother did not die — she escaped into the western seas nineteen years ago and is **alive as of the story's present**. Where she has been, why she never came home, and who else knows: OPEN.
 ---
 
 ## 🗑️ 3. Discarded Twists (Permanently Removed)
