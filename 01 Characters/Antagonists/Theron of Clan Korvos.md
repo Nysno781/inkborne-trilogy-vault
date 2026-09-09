@@ -1,19 +1,21 @@
 ---
 title: Theron of Clan Korvos
 type: character
-category: antagonist island
+category: isles betrothed
 status: confirmed canon
 aliases:
   - Theron
   - Theron of Korvath
   - The Obsidian Heir
 tags:
-  - character/antagonist
+  - character/supporting
   - faction/sun-gilded-isles
   - faction/clan-korvos
 ---
 
 # Theron of Clan Korvos (The Obsidian Heir)
+
+> **Classification (author ruling, 2026-09-09):** Theron is **not currently an antagonist** — he is Adira's arranged betrothed back on the isles ("at least not for now"). His file still lives in the Antagonists folder; reclassification happens in Pass C.
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗

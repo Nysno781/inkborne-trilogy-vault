@@ -33,7 +33,9 @@
 * **Court Architect:** [[01 Characters/Antagonists/Chancellor Hector Vance|Chancellor Hector Vance]] — Inquisitorial Chancellor • Blank Flesh
 * **Purge Commander:** [[01 Characters/Antagonists/Inquisitor Valerius Crane|Inquisitor Valerius Crane]] — Grand Inquisitor • State Hound
 * **Regional Rival:** [[01 Characters/Antagonists/Duke Garrick Thalor|Duke Garrick Thalor]] — Master of Port Morwen • Timber Hoarder
-* **Island Traditionalist:** [[01 Characters/Antagonists/Theron of Clan Korvos|Theron of Clan Korvos]] — Eldest Heir of the Obsidian Quarry
+
+### On the Isles (not currently an antagonist — author ruling 2026-09-09)
+* [[01 Characters/Antagonists/Theron of Clan Korvos|Theron of Clan Korvos]] — Adira's Betrothed • Eldest Heir of the Obsidian Quarry
 
 ---
 

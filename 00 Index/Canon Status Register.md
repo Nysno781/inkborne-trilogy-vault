@@ -42,7 +42,7 @@ Rules: one domain per pass · pause anytime · every ruling reversible · discar
 
 | Pass | Domain | Status |
 | :--- | :--- | :--- |
-| A | The Leads — Kyrell, Adira, capabilities sheet | not started |
+| A | The Leads — Kyrell, Adira, capabilities sheet | **in progress — bulk list & rulings with the author** |
 | B | Allies & supporting — Lucan, Ronan, Master Koa, Sera, the injured man | not started |
 | C | Antagonists — Corin, Vance, Crane, Thalor, Theron + the hierarchy | not started |
 | D | Magic system — bible, 16 glyphs, disciplines, circuits & tolls | not started |

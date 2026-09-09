@@ -63,7 +63,7 @@ tags:
 ## 2. Weapons & Combat Specialization
 
 * **Ebony Lynx Sword-Cane:** Heavy ebony walking stick concealing a 32-inch cold-forged spring-steel rapier with an engraved silver lynx pommel.
-* **Dual Concealed Bodice Stilettos:** High-carbon stiletto daggers hidden inside custom longcoat sleeves.
+* **Dual Concealed Sleeve Stilettos:** High-carbon stiletto daggers hidden inside custom longcoat sleeves.
 * **Combat Style:** Silent, terrifyingly economical lethal combat. Combines point-blank kinetic bursts, redirected blade-parries, and stealth lynx ambush strikes.
 
 ---
