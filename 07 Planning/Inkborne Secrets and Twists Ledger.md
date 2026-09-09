@@ -36,7 +36,7 @@
 | **Vance as a shadow**: a seal, a name, Crane going still; Kyrell's wariness at the name | Act III, one chilling beat | Book 2 |
 | **Lucan's one odd beat**: grin stiffening at a court/heraldry mention (oblique) | Act II–III, single moment | Book 2/3 |
 | Kyrell's unexplained scrutiny of her (where the locket hung) — **subtext only** | Act II–IV | Book 2 (opening crisis) |
-| Mother's words: "the drop will guide you home" — her grief when it's gone | Act II | Book 3 (deeper meaning) |
+| The locket's unexplained purpose — why did her mother seal Mountain Blood inside? She never said | Act II (the not-knowing sharpens the grief) | Book 3 (the why revealed) |
 
 ### C. HOLD for Book 2 — THE COURT OF KNIVES
 | Secret | Why it waits | Notes |
@@ -57,7 +57,7 @@
 | Corin's full nature (10-glyph demigod), why he needs Mountain Blood | Series apex. |
 | **The third source = Mount Kora** (Kyrell's holy grail = her home) | The great moral hinge. |
 | **The unmarked cannot be commanded** thesis (Adira's agency arc) | Adira's counter to the Ashen God. |
-| The locket drop's deeper meaning ("guide you home") | Climax mechanism (unresolved — park). |
+| Why the mother sealed the drop inside the locket (she never said) | Climax reveal (unresolved — park). |
 | Lucan's abdication → Kyrell's crowning → monarchy abolished → equal Sovereigns | Series resolution. |
 
 ---
@@ -75,4 +75,4 @@
 1. The locket in Book 1: **subtext only** (recommended — respects single POV) vs. a single glimpse by Adira very late as a cliffhanger? (The glimpse keeps single POV — she SEES it.)
 2. Does Adira know *of* Master Koa personally (teacher/hero of childhood) or only as a legend? (Affects the Act IV emotional hit.)
 3. What did Adira believe about her mother's origin before Book 1? (Likely "she never questioned" — confirm.)
-4. Does the "guide you home" locket property ever become *active* magic, or stay belief/memory? (Hard-magic rule: raw ink is inert — keep it symbolic unless Book 3 earns an exception.)
+4. **Superseded (Pass A, 2026-09-09):** the maternal warning never existed — the locket is an unexplained gift (Adira knows what, never why). Open question: WHY did her mother seal Mountain Blood inside, and does the drop ever matter materially? (Book 3 payoff slot; hard-magic rule applies — raw ink is inert.)

@@ -58,4 +58,16 @@ tags:
 * **Decision (author-confirmed): the Batch II experiments happened 18 years ago.** Kyrell was fourteen — a true child of the gutters, matching Lucan's locked story (he met Kyrell at 14, half-dead out of the northern flumes, and has stood beside him for the 18 years since).
 * Kyrell's file corrected from "15 years ago" to "18 years ago, at age fourteen." Lucan's file needed no change.
 * Corin's "15 years ago" dates (the stasis awakening and Vance's death-lie) are a separate timeline and remain untouched.
+---
 
+## 2026-09-09 — Pass A applied: The Leads (author rulings)
+
+* **Bulk-ratified:** 27 lead facts locked into the Canon Status Register (identities, magic, weapons, limits, arcs).
+* **Ruling — bare-hands trope removed:** "gloves off = intimacy/vulnerability" declared cliche and erased everywhere it appeared (the Glove Strip custom, the style guide & voice bible beats, the compass armor line, Kyrell's appearance box). Gloves stay as wardrobe + palm-glyph concealment; touch-starvation continues via wound-tending, the almost-touch, the mantle-drape, the three-dance rule.
+* **Ruling — height:** Adira is 5'5" (165 cm), corrected from 5'8".
+* **Ruling — English only:** all island-language words removed (te Solari, Te Hā, The Umu); customs renamed in English (the Obsidian Breath, the Communal Earth-Oven); the Ch1 draft prose patched to match.
+* **Ruling — junction faults (1A):** the Circuits-doc mechanical version is canon; Kyrell's file now carries the three glyph-pair faults + the bloom tell instead of the old symptomatic list.
+* **Ruling — the locket:** no maternal warning exists. The locket is an unexplained gift — Adira knows what it holds, never why her mother sealed Mountain Blood inside. Updated across her file, the Mount Kora doc, the compass, and the secrets ledger (the "guide you home" seed superseded by "the unexplained purpose" seed, payoff Book 3).
+* **Ruling — "The Unmarked Bride" alias (3B):** dropped; parked in the register graveyard.
+* **Ruling — glyph origin (4A):** all 8 of Kyrell's glyphs were inked during Batch II at age 14.
+* **Open (A-29):** who can read Kyrell's micro-tells/junction fatigue — clarification requested.

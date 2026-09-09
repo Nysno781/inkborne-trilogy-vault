@@ -24,9 +24,9 @@ tags:
 
 ## 2. Hospitality & Customs
 
-* **The "Obsidian Breath" (*Te Hā*):** Two allies press their foreheads and noses together, closing their eyes and taking a single shared breath to acknowledge mutual peace and no hidden blades.
+* **The Obsidian Breath:** Two allies press their foreheads and noses together, closing their eyes and taking a single shared breath to acknowledge mutual peace and no hidden blades.
 * **The Open Palm:** Walking with open palms touching the heart and host's shoulder.
-* **Communal Earth-Oven (*The Umu*):** Roasted tuna, taro, and breadfruit; the first ten percent of every catch is shared with elders and divers.
+* **The Communal Earth-Oven:** Roasted tuna, taro, and breadfruit; the first ten percent of every catch is shared with elders and divers.
 
 ---
 

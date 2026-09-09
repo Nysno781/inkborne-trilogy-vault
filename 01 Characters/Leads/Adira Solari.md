@@ -6,8 +6,6 @@ status: confirmed canon
 aliases:
   - Adira
   - Adira of Clan Solari
-  - Adira te Solari
-  - The Unmarked Bride
   - Master Wayfinder
 tags:
   - character/lead
@@ -22,7 +20,7 @@ tags:
 ╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
 ║                                        ADIRA SOLARI (AGE 23)                                         ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ • Height & Build: 5'8" (173 cm) • Lithe, powerful, athletic free-diver physique.                     ║
+║ • Height & Build: 5'5" (165 cm) • Lithe, powerful, athletic free-diver physique.                     ║
 ║ • Complexion: Luminous golden-bronze skin • Smooth, completely unmarked canvas (zero ink).           ║
 ║ • Facial Structure: Striking, elegant features • High cheekbones • Expressive, brave gaze.          ║
 ║ • Hair: Sunlit Cocoa • Waist-length dark chocolate/espresso brown with loose waves & sun-kissed      ║
@@ -37,7 +35,7 @@ tags:
 ## 0. Canonical Identity & Titles
 
 * **Full Mainland Legal Name:** **Adira Solari**
-* **Homeland Lineage Title:** **Adira of Clan Solari** (*Adira te Solari*)
+* **Homeland Lineage Title:** **Adira of Clan Solari**
 * **The Clan Name Rule (Model 2 Confirmed):**
   * On [[03 Worldbuilding/The Sun-Gilded Isles/The Five Isles and Clans|The Sun-Gilded Isles]], clan names (*Solari*) are exclusive honorifics held solely by the **hereditary Clan Leaders and their direct bloodline**.
   * Common civilians go by single names or craft titles. Mainlanders record her on legal registries as **Adira Solari**.
@@ -54,7 +52,7 @@ tags:
 * **The Mother's Locket:**
   * A hermetically sealed teardrop pendant of translucent black volcanic obsidian framed in polished mother-of-pearl.
   * Holds a single, pure droplet of raw subterranean **Prime Ink** (*"Mountain Blood"*).
-  * Given by her late mother with the ancestral warning: *"Never open it, never spill it, and never speak of what lies inside. If you are lost across uncharted seas, this drop will guide you home."*
+  * Given by her late mother with no explanation at all — no warning, no instruction. Adira knows **what** it holds, but she has never known **why** her mother sealed a drop of the mountain's blood inside; her mother died without telling her.
 
 ---
 

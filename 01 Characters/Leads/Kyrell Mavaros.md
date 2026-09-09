@@ -28,7 +28,7 @@ tags:
 ║ • Facial Structure: Chiseled jawline, sharp aristocratic cheekbones, guarded, unreadable expression. ║
 ║ • Hair: Raven-Black • Slightly wavy, trimmed neatly to collar length, falls forward when fighting.    ║
 ║ • Eyes: Mercury-Silver • Cold, reflective grey-silver eyes with dark limbal rings; intensely vigilant.║
-║ • Hands: Always sheathed in tailored black leather gloves; removing them is peak vulnerability.       ║
+║ • Hands: Always in tailored black leather gloves — they conceal the Wedge glyph inked across his palm.║
 ║ • Signature Beast: The Eurasian Lynx (Silent stalker, phantom ambusher, shadow eyes).                ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -46,17 +46,18 @@ tags:
 
 ## 1. Magic System & Inked Anatomy
 
-* **Total Active Glyphs:** **8 Prime-Inked Glyphs** (The only living human to balance 2 full Prime disciplines without terminal ink-coma).
+* **Total Active Glyphs:** **8 Prime-Inked Glyphs** (The only living human to balance 2 full Prime disciplines without terminal ink-coma). All 8 were inked during the Batch II experiments at age fourteen — the interwoven junctions are Batch II's legacy.
 * **Disciplines Held:**
   * [[02 Magic System/Disciplines/Discipline 1 Kinetic|Discipline 1: Physical / Kinetic]] (All 4 Glyphs: Strength (The Corbel), Speed (The Chevron Stack), Kinetic Deflection Shield (The Keystone), Point-Blank Kinetic Shock (The Wedge)).
   * [[02 Magic System/Disciplines/Discipline 3 Beast Summoning|Discipline 3: Beast Summoning]] (All 4 Glyphs: Manifestation (The Sweeping Arc), Partial Manifestation (The Broken Arc), Surface Spread (The Fan), Extended Reach (The Tether)).
 * **Signature Beast Avatar:** **The Eurasian Lynx**
   * Silent, stealth predator with tufted ears, razor reflexes, and nocturnal shadow-vision.
   * Manifests as a phantom predator of dense, solidifying black vapor or merges into Kyrell's body for superhuman spatial awareness and agility.
-* **The 3 Junction Faults:**
-  * Left Clavicle / Neck Junction: Throbbing silver-black scar tissue under stress.
-  * Lower Lumbar Spine: Thermal burn radiating during double-discipline overdrive.
-  * Right Forearm Flexor: Micro-tremors requiring cold compresses and tight leather bracers.
+* **The 3 Junction Faults** (structural faults born of Batch II's interweaving geometries — 5 glyphs isolated, 3 interwoven; full mechanics in [[02 Magic System/Circuits Faults and Tolls|Circuits, Junction Faults & Tolls]]):
+  * **Forearm & Hand:** Partial Manifestation (Beast) × Point-Blank Kinetic Shock (Kinetic) — a summoned lynx claw sometimes kinetically detonates on impact instead of cutting cleanly.
+  * **Back & Torso:** Kinetic Deflection Shield (Kinetic) × Surface Spread (Beast) — calling a deflection shield while spreading ink sometimes triggers the shield at the spread's remote location instead of around his body, leaving his torso undefended.
+  * **Thigh & Calf:** Extended Reach (Beast) × Speed (Kinetic) — sprinting at full kinetic speed while the lynx runs at extended range sometimes snaps the tether back, violently materializing the beast on top of him.
+  * **The Bloom Tell:** Under extreme exhaustion, these three junction points bloom first as dark, burning bruises before the rest of his ink surfaces.
 
 ---
 

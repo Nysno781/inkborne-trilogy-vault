@@ -28,7 +28,6 @@ tags:
 * **"The Mantle Drape" (Territorial Protection):** Draping a heavy, tailored wool longcoat or fur mantle over a woman's shoulders is an ancient feudal declaration: *"She is under my mantle; her safety is answered by my blood."*
 * **"The Three-Dance Rule" (Ballroom Jealousy):** A lady may dance with an acquaintance *once* out of courtesy, *twice* if courted, but a *third dance* is an open declaration of betrothal or exclusive possession.
 * **"The Favor of Steel":** Wearing a gentleman's signet, dagger, or hairpin on one's sash requires all other suitors to seek permission from the blade's owner before approaching.
-* **"The Glove Strip" (Threshold of Bare-Skin Intimacy):** Because aristocrats wear leather gloves at all times as armor, touching someone's bare face, neck, or wrist with an ungloved hand in private is the ultimate threshold of surrender.
 
 ---
 

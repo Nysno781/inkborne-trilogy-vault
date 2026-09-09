@@ -26,6 +26,5 @@ tags:
 
 * **The Pendant:** A hermetically sealed teardrop pendant carved from translucent black volcanic obsidian, framed in polished mother-of-pearl and hung from a braided sea-grass cord.
 * **What Lies Inside:** A single, pure, unadulterated droplet of raw subterranean Prime Ink (*Mountain Blood*).
-* **Origin:** [[01 Characters/Leads/Adira Solari|Adira Solari]]'s late mother secretly harvested the drop from a fissure near Mount Kora's rim before her death, passing it down with the ancestral warning:
-  > *"The Mountain Blood must never be used for war. But if the world ever falls into ruin and you are lost across uncharted seas, this drop is the living pulse of our mountain. It will guide you home."*
+* **Origin:** [[01 Characters/Leads/Adira Solari|Adira Solari]]'s late mother secretly harvested the drop from a fissure near Mount Kora's rim and gave the locket to her daughter with no explanation — no warning, no instruction, no reason given. Adira knows what it holds; she has never known why. The unexplained gift is her private mystery to carry.
 * **Secrecy:** Only Adira and her late mother know what is inside. To the rest of the world, it appears as an ancestral mourning keepsake.

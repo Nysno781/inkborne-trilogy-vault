@@ -52,7 +52,7 @@ My father waits on the shingle with half the household behind him, and he is doi
 
 "I'm a Master Wayfinder."
 
-"You're *my* Master Wayfinder." He presses his forehead to mine — the *te hā*, one shared breath — and when he pulls back he's grinning again, and he squeezes my shoulders once, hard, the way he did when I was small enough to fit under one arm. "Go. Before I start inspecting the *water*."
+"You're *my* Master Wayfinder." He presses his forehead to mine — one shared breath — and when he pulls back he's grinning again, and he squeezes my shoulders once, hard, the way he did when I was small enough to fit under one arm. "Go. Before I start inspecting the *water*."
 
 ---
 
