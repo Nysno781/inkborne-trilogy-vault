@@ -30,4 +30,4 @@ tags:
 
 * **Governance:** Controls the western coastline where [[01 Characters/Leads/Adira Solari|Adira]] and [[01 Characters/Allies/Ronan|Ronan]] wash ashore.
 * **Corrupt Enterprise:** Secretly skims Crown tariffs and trades off-book timber with [[01 Characters/Leads/Kyrell Mavaros|Kyrell]]'s river syndicate, unaware that Kyrell holds the incriminating ledgers that could have him executed for high treason.
-* **The Conflict:** Plunders shipwrecks along the coastal reefs, attempting to capture Adira's vessel and her artifacts before the Crown learns of them.
+* **The Conflict (Book 1):** The storm-wrecked islanders wash ashore in his duchy — no one knows they exist (the catastrophe is a storm, not a conspiracy; no one is hunting their artifacts). While Crane's purges tighten the coast, his shipyards quietly lay down too many hulls (the T1 seed); the raid on Port Morwen exposes the armada — outwitted but not undone, which hands the weapon to Vance and lights the Book 2 engine.

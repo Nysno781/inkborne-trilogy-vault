@@ -94,7 +94,7 @@
 ---
 
 ## Still on the table before drafting Ch1
-1. Handmaiden: name, age, identity, her thread.
+1. Handmaiden: Sera (working name) — age, identity, her thread.
 2. Locket-in-Book-1: hints only, or the fracture, or the Act IV sighting?
 3. Midpoint reversal choice.
 4. The first task (Act II) — what it is.

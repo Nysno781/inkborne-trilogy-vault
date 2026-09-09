@@ -11,7 +11,7 @@ tags:
 
 # Book 1: Overview & Open Canvas
 
-> **Status:** Open Canvas — ready for fresh scene and act plotting.
+> **Status:** Act structure now drafted — see the [[07 Planning/Book 1 Act Map|Book 1 Act Map]] and [[07 Planning/Book 1 Chapter Outline|Chapter Outline]] (steered by the [[07 Planning/Inkborne Story Compass|Story Compass]]; secrets tracked in the [[07 Planning/Inkborne Secrets and Twists Ledger|Secrets & Twists Ledger]]). This page keeps the fixed starting points.
 
 ---
 

@@ -26,7 +26,7 @@ tags:
 
 ## 2. The 3-Tier Antagonist Escalation Hierarchy
 
-Like the gold standard fantasy hierarchies (e.g., *ACOTAR*’s Amarantha $\rightarrow$ King of Hybern):
+Like the gold standard fantasy hierarchies (e.g., *ACOTAR*’s Amarantha → King of Hybern):
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
@@ -35,7 +35,7 @@ Like the gold standard fantasy hierarchies (e.g., *ACOTAR*’s Amarantha $\right
 ║ BOOK 1: THE REGIONAL THREAT (Immediate Coastal & Underworld Danger)                                  ║
 ║ • INQUISITOR VALERIUS CRANE & DUKE GARRICK THALOR                                                    ║
 ║   - Tactical coastal purges, shipyard corruption, hunting Adira on the beaches and wharves.         ║
-║   - Tangible, high-action threat that Kyrell and Adira outwit and destroy in Book 1.                 ║
+║   - Tangible, high-action threat that Kyrell and Adira outwit in Book 1.                             ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ BOOK 2: THE BUREAUCRATIC ARCHITECT (The Corrupt System & High Court)                                 ║
 ║ • CHANCELLOR HECTOR VANCE                                                                            ║

@@ -48,8 +48,8 @@ tags:
 
 * **Total Active Glyphs:** **8 Prime-Inked Glyphs** (The only living human to balance 2 full Prime disciplines without terminal ink-coma).
 * **Disciplines Held:**
-  * [[02 Magic System/Disciplines/Discipline 1 Kinetic|Discipline 1: Physical / Kinetic]] (All 4 Glyphs: Kinetic Shockwave, Redirection Shield, Burst Step, Density Hardening).
-  * [[02 Magic System/Disciplines/Discipline 3 Beast Summoning|Discipline 3: Beast Summoning]] (All 4 Glyphs: Manifestation, Sensory Fusion, Shadow Coat, Feral Overdrive).
+  * [[02 Magic System/Disciplines/Discipline 1 Kinetic|Discipline 1: Physical / Kinetic]] (All 4 Glyphs: Strength (The Corbel), Speed (The Chevron Stack), Kinetic Deflection Shield (The Keystone), Point-Blank Kinetic Shock (The Wedge)).
+  * [[02 Magic System/Disciplines/Discipline 3 Beast Summoning|Discipline 3: Beast Summoning]] (All 4 Glyphs: Manifestation (The Sweeping Arc), Partial Manifestation (The Broken Arc), Surface Spread (The Fan), Extended Reach (The Tether)).
 * **Signature Beast Avatar:** **The Eurasian Lynx**
   * Silent, stealth predator with tufted ears, razor reflexes, and nocturnal shadow-vision.
   * Manifests as a phantom predator of dense, solidifying black vapor or merges into Kyrell's body for superhuman spatial awareness and agility.

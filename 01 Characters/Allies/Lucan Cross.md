@@ -46,8 +46,8 @@ tags:
 ## 1. Magic System & Inked Anatomy `[Option A Confirmed]`
 
 * **Disciplines Held:** **Discipline 1 (Physical / Kinetic) — 2 Street-Cut Glyphs:**
-  * **Glyph 1: Burst Step (Right Leg / Foot):** Explosive sprinting speed, agile leaping across river barges, and fast lateral repositioning.
-  * **Glyph 2: Redirection Shield (Left Forearm):** Kinetic parry shield capable of deflecting crossbow bolts, stiletto thrusts, and bludgeoning strikes.
+  * **Glyph 1: Speed — The Chevron Stack (Right Calf):** Burst propulsion and rapid directional redirection — explosive sprinting speed, agile leaping across river barges, and fast lateral repositioning.
+  * **Glyph 2: Kinetic Deflection Shield — The Keystone (Left Inner Forearm):** A transparent plane of compressed kinetic force — deflects crossbow bolts, stiletto thrusts, and bludgeoning strikes.
 * **Inking Quality:** Hand-poked in the catacombs by a master rogue inker using refined pitch-salve. Smooth, reliable circuitry with zero junction faults.
 
 ---

@@ -10,7 +10,7 @@ tags:
   - backstory
 ---
 
-# Master Plot Twists Catalog (Locked Canon)
+# Master Plot Twists Catalog (Locked Rules + Working Twists)
 
 > **Locked Core Rules:**
 > 1. **Zero Islander Knowledge (Except High Elders):** The Council of Five Elders knows of the iron mainland from **Master Koa's** expedition 30 years ago. Commoners and youth (including Adira and Ronan) believe they are alone under the sun.

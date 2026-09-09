@@ -1,3 +1,14 @@
+---
+title: Style Spec Voice Bible
+type: meta
+category: prose voice
+status: confirmed canon
+tags:
+  - meta
+  - style
+  - voice
+---
+
 # Inkborne — Style Spec & Voice Bible (v1)
 
 > Locked from the author's own words + the compass. This governs every draft from here on.

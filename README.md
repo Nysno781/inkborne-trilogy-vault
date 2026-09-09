@@ -11,18 +11,22 @@
 * **Master Index:** [[00 Index/MOC Master Index|Master Map of Content]]
 * **Series Rules & Architecture:** [[00 Index/Series Architecture|Series Architecture]]
 * **Prose & Romance Guide:** [[00 Index/Style Guide and Tone|Style Guide & Romance Rules]]
+* **Voice & POV Spec:** [[00 Index/Style Spec Voice Bible|Style Spec & Voice Bible]]
+* **Cleanup Log:** [[00 Index/Vault Changelog|Vault Changelog]]
 
 ---
 
 ## 👥 Core Cast
 
 ### The Leads
-* [[01 Characters/Leads/Kyrell Mavaros|Kyrell Mavaros]] — The Shadow Sovereign • Governor of Assay & Bullion House • Batch II Titan
+* [[01 Characters/Leads/Kyrell Mavaros|Kyrell Mavaros]] — The Shadow Sovereign • Governor of the Assay & Bullion House • Batch II Titan
 * [[01 Characters/Leads/Adira Solari|Adira Solari]] — Master Wayfinder of Solara • Daughter of Clan Solari • Unmarked Canvas
+* [[01 Characters/Leads/Adira Capabilities and Limits|Adira — Capabilities & Limits]] — hard-limits reference sheet
 
 ### The Allies & Companions
 * [[01 Characters/Allies/Lucan Cross|Lucan Cross]] — Chief of Smuggling • Managing Director of Grand River Freight • Kyrell's Right Hand
 * [[01 Characters/Allies/Ronan|Ronan]] — High Clan Guard • Sea-Spear Master • Adira's Loyal Companion
+* [[01 Characters/Allies/Master Koa|Master Koa]] — The First Explorer • Twelve years captive in Port Morwen's sea-dungeons
 
 ### The Antagonist Hierarchy
 * **Apex Threat:** [[01 Characters/Antagonists/Prince Corin Valerius|Prince Corin Valerius]] — The Ashen God • Frozen Heir • 10-Glyph Demigod
@@ -59,8 +63,16 @@
 
 ---
 
-## 📖 Story & Manuscript
+## 📖 Story, Plot & Planning
 * [[04 Story and Plot/Trilogy Overview|Trilogy High-Level Overview]]
-* [[04 Story and Plot/Book 1/Book 1 Overview|Book 1 Planning & Outlines]]
-* `05 Manuscript/` — Working chapter drafts
-* `06 Scratchpad and Ideas/` — Active brainstorming canvas
+* [[04 Story and Plot/Book 1/Book 1 Overview|Book 1 Overview & Fixed Milestones]]
+* **Working planning docs** (`07 Planning/`):
+  * [[07 Planning/Inkborne Story Compass|Inkborne Story Compass]] — the decision filter
+  * [[07 Planning/Book 1 Act Map|Book 1 Act Map]] — four-act structure
+  * [[07 Planning/Book 1 Chapter Outline|Book 1 Chapter-by-Chapter Outline]]
+  * [[07 Planning/Inkborne Secrets and Twists Ledger|Secrets & Twists Ledger]] — who knows what, and when it pays off
+  * [[07 Planning/Book 1 Dev Log - Brought Before Kyrell|Book 1 Dev Log — Brought Before Kyrell]]
+
+## ✍️ Manuscript & Scratchpad
+* `05 Manuscript/` — Working chapter drafts ([[05 Manuscript/Ch1 draft|Ch1]] · [[05 Manuscript/Ch2 draft|Ch2]] · [[05 Manuscript/Ch3 draft|Ch3]])
+* `06 Scratchpad and Ideas/` — Active brainstorming canvas ([[06 Scratchpad and Ideas/Plot Twists Drafts|Plot Twists Drafts]])

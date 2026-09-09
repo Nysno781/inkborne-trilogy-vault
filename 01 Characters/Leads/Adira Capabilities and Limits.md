@@ -1,3 +1,13 @@
+---
+title: Adira Capabilities and Limits
+type: reference
+category: lead fmc
+status: living reference
+tags:
+  - character/lead
+  - reference/capabilities
+---
+
 # Adira Solari — Capabilities & Limits (Reference Sheet)
 
 > Living reference. Built strictly from the vault + the four source docs. **No magic** — every capability is training, memory, and perception.

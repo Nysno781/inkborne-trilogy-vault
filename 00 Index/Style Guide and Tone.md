@@ -37,3 +37,8 @@ tags:
 * **Cadence & Dialect Contrast:**
   * **Mainlanders:** Formal, clipped, measured cadence. Rich in legal metaphors, assay terminology, and guarded court courtesy.
   * **Islanders:** Rhythmic, lyrical, direct. Rich in nautical idioms, celestial metaphors, and open honesty.
+
+---
+
+## 4. Companion Document
+* [[00 Index/Style Spec Voice Bible|Style Spec & Voice Bible]] — POV & tense, Adira's voice DO/DON'T, scene registers, wit rules, the lyricism budget, and the romance register. Locked unless the author revises.

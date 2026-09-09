@@ -50,6 +50,6 @@ tags:
 │ • SETTING: Veridia under siege ──► Abyssal Reaches crossing ──► Mount Kora Caldera.         │
 │ • ROMANCE: Unbreakable Devotion • Sovereign Partners • Fighting back-to-back as equals.     │
 │ • CLIMAX: The Battle for Mount Kora. Dismantling Corin's 10-glyph madness. Lucan Cross (the secret royal bastard) abdicates any claim, officially crowning Kyrell as Sovereign Governor.
-│ • RESOLUTION: Monarchy abolished. Kyrell & Adira ascend as equal Sovereign Rulers of the Realm, bound by their pulse-tether. Lucan gets his HEA as Grand Master of Commerce and the River Trade; Mount Kora remains protected.
+│ • RESOLUTION: Monarchy abolished. Kyrell & Adira ascend as equal Sovereign Rulers of the Realm, bound by choice, not by any magic. Lucan gets his HEA as Grand Master of Commerce and the River Trade; Mount Kora remains protected.
 └─────────────────────────────────────────────────────────────────────────────────────────────┘
 ```

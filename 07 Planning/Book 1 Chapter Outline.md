@@ -62,7 +62,7 @@
 - (The missing locket aches through the whole scene like a pulled tooth.)
 
 ## Ch10 — The Terms & the Household
-- ✅ Not prisoners — debtors, put to work. 🔶 To Adira's shock, Kyrell actually sends Ronan to his physician — she cannot reconcile it. Ronan will work guard/labor once healed. The handmaiden is set to a safe household post (🔓 name/identity still open).
+- ✅ Not prisoners — debtors, put to work. 🔶 To Adira's shock, Kyrell actually sends Ronan to his physician — she cannot reconcile it. Ronan will work guard/labor once healed. The handmaiden — Sera (working name) — is set to a safe household post (her full identity still open).
 - **Adira is kept near Kyrell** — assigned to the counting/manifest work of his household. She waits for the trap, sure he's planning something worse. She learns the shape of his domain, hates it, and hates that it's clean and orderly.
 - She realizes the locket is truly gone (no chance to search the warehouse). Grief + a new terror: the drop is loose in the world. She cannot act.
 

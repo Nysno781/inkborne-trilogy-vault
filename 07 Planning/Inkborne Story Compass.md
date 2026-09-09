@@ -85,7 +85,7 @@
 - **Discovery is gradual and earned.** They do NOT stumble onto anything conveniently. They move logically: look for dry clothes → food → scout the area → find shelter (and even shelter may not come on the first night).
 - Only as they progress inland do they see people who **look different** and bear **tattoos** — and slowly realize this is **not one of the isles** but an entirely foreign land. (Islanders know nothing of ink; seeing tattooed strangers is alien → confusing → frightening as they learn what the marks can do.)
 - The run-in with Kyrell's operation comes **only after real days** of surviving, hiding, and observing — timeline open, nothing rushed.
-- **The two companions are full people with their own reactions**, not props: Ronan (sarcastic morale anchor, warrior, fiercely protective) and the handmaiden (**unnamed in canon as yet — needs identity; she carries Adira's old life**).
+- **The two companions are full people with their own reactions**, not props: Ronan (sarcastic morale anchor, warrior, fiercely protective) and the handmaiden — **Sera** (working name in the drafts; locked character: the competent, steady organizer-healer who carries Adira's old life. Full identity & backstory still open).
 
 ### 🔓 OPEN (working notes)
 - Mechanics of the theft / capture / why Kyrell spares them → later. Principles: the theft must **cost him something real**; sparing her must be **earned** (usefulness, curiosity — never insta-attraction); Adira must **not reveal** her wayfinding or her value too early.

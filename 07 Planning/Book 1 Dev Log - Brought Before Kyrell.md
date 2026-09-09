@@ -1,6 +1,6 @@
 # Book 1 — Sequence 01: Brought Before Kyrell (Dev Log)
 
-> **Authoritative base:** the four reference docs in `_reference/` (Story Compass, Act Map, Chapter Outline, Secrets & Twists Ledger). **Lock convention in those files:** ✅ = you actually decided; 🔶 = an AI suggested it, you haven't vetoed it yet; 🔓 = open. Only ✅ counts as canon. 🔶 items (e.g. the "courier task") are veto-able and were NOT agreed to.
+> **Authoritative base:** the four planning docs in `07 Planning/` (Story Compass, Act Map, Chapter Outline, Secrets & Twists Ledger). **Lock convention in those files:** ✅ = you actually decided; 🔶 = an AI suggested it, you haven't vetoed it yet; 🔓 = open. Only ✅ counts as canon. 🔶 items (e.g. the "courier task") are veto-able and were NOT agreed to.
 > Status of sequence: **RE-SYNCED with files — details below.**
 
 ---
@@ -126,4 +126,4 @@
 
 ## 7. Changelog
 
-- **2026-09-09 — Voice retune + map + cleanup.** Rewrote Ch1–2 in the free-spirited/witty voice (see `Style Spec Voice Bible.md`); patched Ch3 (Sera steady, Ronan→Sera crush). Removed mainlanders from Ch1. Set map bones (master canvas, Aethel N→W, Parchment, crossing blend — see `map/Map Brief.md`). **Discarded the AI map render** (didn't come out right) — the map will be hand-built in Inkarnate from `map/inkborne map plan.svg` + the brief. Workspace cleaned; project zipped as `inkborne_book1_dev.zip`.
+- **2026-09-09 — Voice retune + map + cleanup.** Rewrote Ch1–2 in the free-spirited/witty voice (see `Style Spec Voice Bible.md`); patched Ch3 (Sera steady, Ronan→Sera crush). Removed mainlanders from Ch1. Set map bones (master canvas, Aethel N→W, Parchment, crossing blend — see `map/Map Brief.md`). **Discarded the AI map render** (didn't come out right) — the map will be hand-built in Inkarnate from `map/inkborne map plan.svg` + the brief. Workspace cleaned.

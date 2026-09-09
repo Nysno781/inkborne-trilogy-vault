@@ -17,6 +17,8 @@ Welcome to the central navigation hub for the Inkborne Dark Fantasy Romance Tril
 ## 🏛️ 1. Index & Meta-Architecture
 * [[00 Index/Series Architecture|Series Architecture & Word Counts]]
 * [[00 Index/Style Guide and Tone|Style Guide, Romance Rules & Prose Standards]]
+* [[00 Index/Style Spec Voice Bible|Style Spec & Voice Bible (POV, Voice, Register)]]
+* [[00 Index/Vault Changelog|Vault Changelog — every cleanup & fix, dated]]
 
 ---
 
@@ -24,9 +26,11 @@ Welcome to the central navigation hub for the Inkborne Dark Fantasy Romance Tril
 * **The Leads:**
   * [[01 Characters/Leads/Kyrell Mavaros|Kyrell Mavaros (MMC)]]
   * [[01 Characters/Leads/Adira Solari|Adira Solari (FMC)]]
+  * [[01 Characters/Leads/Adira Capabilities and Limits|Adira — Capabilities & Limits Sheet]]
 * **The Allies & Companions:**
   * [[01 Characters/Allies/Lucan Cross|Lucan Cross (MMC Right Hand)]]
   * [[01 Characters/Allies/Ronan|Ronan (FMC Companion)]]
+  * [[01 Characters/Allies/Master Koa|Master Koa (The First Explorer)]]
 * **The Antagonists:**
   * [[01 Characters/Antagonists/Prince Corin Valerius|Prince Corin Valerius (Apex Antagonist / Batch I)]]
   * [[01 Characters/Antagonists/Chancellor Hector Vance|Chancellor Hector Vance (Primary Inquisitorial Chancellor)]]
@@ -39,7 +43,7 @@ Welcome to the central navigation hub for the Inkborne Dark Fantasy Romance Tril
 ---
 
 ## 🖋️ 3. Magic System & Tattoo Grimoire
-* [[02 Magic System/Magic Master Bible|Master Magic Bible (16 Universal Laws)]]
+* [[02 Magic System/Magic Master Bible|Master Magic Bible (Universal Laws & Capacity Tiers)]]
 * [[02 Magic System/The 16 Glyphs|The 16 Canonical Glyphs Grimoire]]
 * [[02 Magic System/Circuits Faults and Tolls|Circuits, Junction Faults & Biological Tolls]]
 * **Discipline Deep-Dives:**
@@ -65,7 +69,24 @@ Welcome to the central navigation hub for the Inkborne Dark Fantasy Romance Tril
 
 ---
 
-## 📜 5. Story, Plot & Manuscript
+## 📜 5. Story, Plot & Planning
 * [[04 Story and Plot/Trilogy Overview|Trilogy High-Level Overview]]
-* [[04 Story and Plot/Book 1/Book 1 Overview|Book 1 Planning & Outlines]]
-* [[06 Scratchpad and Ideas/|Active Brainstorming & Scratchpad]]
+* [[04 Story and Plot/Book 1/Book 1 Overview|Book 1 Overview & Fixed Milestones]]
+* **Working planning docs (07 Planning):**
+  * [[07 Planning/Inkborne Story Compass|Inkborne Story Compass — the decision filter]]
+  * [[07 Planning/Book 1 Act Map|Book 1 Act Map — four-act structure]]
+  * [[07 Planning/Book 1 Chapter Outline|Book 1 Chapter-by-Chapter Outline]]
+  * [[07 Planning/Inkborne Secrets and Twists Ledger|Secrets & Twists Ledger — who knows what, when it pays off]]
+  * [[07 Planning/Book 1 Dev Log - Brought Before Kyrell|Book 1 Dev Log — Brought Before Kyrell]]
+
+---
+
+## ✍️ 6. Manuscript
+* [[05 Manuscript/Ch1 draft|Ch1 draft — The Morning of Departure]]
+* [[05 Manuscript/Ch2 draft|Ch2 draft — The Wake on the Sand]]
+* [[05 Manuscript/Ch3 draft|Ch3 draft — The Rite]]
+
+---
+
+## 💡 7. Scratchpad
+* [[06 Scratchpad and Ideas/Plot Twists Drafts|Plot Twists Catalog & Brainstorming]]
